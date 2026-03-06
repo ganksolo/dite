@@ -1,6 +1,6 @@
 # React + Vite
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template?gh_repo=ganksolo/dite)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/new/template?template=https://github.com/ganksolo/dite)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
