@@ -1,0 +1,333 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "86aet",
+      "x": -720,
+      "y": -433,
+      "name": "Section 2",
+      "width": 1440,
+      "fill": "#ffffffff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 58,
+      "padding": [
+        0,
+        0,
+        68,
+        0
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "69cVY",
+          "name": "Frame 218",
+          "width": 1440,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "children": [
+            {
+              "type": "frame",
+              "id": "X5dOj",
+              "name": "Frame 14",
+              "width": "fill_container",
+              "height": 38,
+              "fill": "#007affff",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 28,
+              "padding": [
+                12,
+                0
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "3O81r",
+                  "name": "Frame 13",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 48,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "vHhFI",
+                      "name": "MEDITE",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width",
+                      "width": 38,
+                      "content": "MÉDITE",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "kPsRC",
+                      "name": "SaaS+Ai",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 40,
+                      "height": 12,
+                      "content": "SaaS+Ai",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "xAYAG",
+                      "name": "源产地",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 30,
+                      "height": 12,
+                      "content": "源产地",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "CP86D",
+                      "name": "工作坊",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 29,
+                      "height": 12,
+                      "content": "工作坊",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "mPMAo",
+                      "name": "生态群",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 29,
+                      "height": 12,
+                      "content": "生态群",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "vEyrx",
+                      "name": "可持续",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 29,
+                      "height": 12,
+                      "content": "可持续",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "c3GsK",
+                      "name": "媒体",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 20,
+                      "height": 12,
+                      "content": "媒体",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Sbzrq",
+                      "name": "技术支持",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 37,
+                      "height": 12,
+                      "content": "技术支持",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "mxhw3",
+                      "name": "企业云",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 29,
+                      "height": 12,
+                      "content": "企业云",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "4xoqe",
+                      "name": "高务联络",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width-height",
+                      "width": 38,
+                      "height": 12,
+                      "content": "商务联络",
+                      "lineHeight": 1.5555555555555556,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "v1kvW",
+                  "name": "magnifyingglass 1",
+                  "clip": true,
+                  "width": 12,
+                  "height": 12,
+                  "fill": {
+                    "type": "color",
+                    "color": "#ffffffff",
+                    "enabled": false
+                  },
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 0.044645216315984726
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "path",
+                      "id": "F783O",
+                      "x": 1,
+                      "y": 1,
+                      "name": "Vector",
+                      "geometry": "M0 98.8281c0 54.39491 44.3359 98.73091 98.8281 98.73091 21.9729 0 42.18789-7.22701 58.5939-19.43401l64.35499 64.453c2.442 2.539 5.86 3.80899 9.375 3.80899 7.715 0 12.89101-5.85998 12.89101-13.18399 0-3.613-1.27001-6.738-3.61301-9.18001l-64.06299-64.35499c13.28101-16.69901 21.28901-37.891 21.28901-60.8399 0-54.4922-44.336-98.8281-98.82791-98.8281-54.4922 0-98.8281 44.3359-98.8281 98.8281z m18.2617 0c0-44.4336 36.1328-80.5664 80.5664-80.5664 44.43389 0 80.4689 36.1328 80.4689 80.5664 0 44.3359-36.03501 80.4689-80.4689 80.4689-44.4336 0-80.5664-36.133-80.5664-80.4689z",
+                      "fill": "#ffffffff",
+                      "width": 10,
+                      "height": 10,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.0409763865172863
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "WTQdi",
+                  "name": "magnifyingglass 2",
+                  "clip": true,
+                  "width": 12,
+                  "height": 12,
+                  "fill": {
+                    "type": "color",
+                    "color": "#ffffffff",
+                    "enabled": false
+                  },
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 0.044645216315984726
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "path",
+                      "id": "8KJvb",
+                      "x": 1,
+                      "y": 1,
+                      "name": "Vector",
+                      "enabled": false,
+                      "geometry": "M0 98.8281c0 54.39491 44.3359 98.73091 98.8281 98.73091 21.9729 0 42.18789-7.22701 58.5939-19.43401l64.35499 64.453c2.442 2.539 5.86 3.80899 9.375 3.80899 7.715 0 12.89101-5.85998 12.89101-13.18399 0-3.613-1.27001-6.738-3.61301-9.18001l-64.06299-64.35499c13.28101-16.69901 21.28901-37.891 21.28901-60.8399 0-54.4922-44.336-98.8281-98.82791-98.8281-54.4922 0-98.8281 44.3359-98.8281 98.8281z m18.2617 0c0-44.4336 36.1328-80.5664 80.5664-80.5664 44.43389 0 80.4689 36.1328 80.4689 80.5664 0 44.3359-36.03501 80.4689-80.4689 80.4689-44.4336 0-80.5664-36.133-80.5664-80.4689z",
+                      "fill": "#494949ff",
+                      "width": 10,
+                      "height": 10.096048355102539,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.0409763865172863
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "fgqqy",
+                      "x": 1.0000228881835938,
+                      "y": -0.00005397200584411621,
+                      "name": "bag 1",
+                      "clip": true,
+                      "width": 10,
+                      "height": 11.330704689025879,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.045269764959812164
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "RDI5d",
+                          "x": 0,
+                          "y": 1,
+                          "name": "Vector",
+                          "geometry": "M1.71972 10.32627l6.69321 0c1.01237 0 1.58707-0.57914 1.58707-1.70644l0-4.9505c0-1.1229-0.57914-1.70204-1.71971-1.70204l-6.56057 0c-1.14059 0-1.71972 0.57471-1.71972 1.70204l0 4.9505c0 1.13174 0.57914 1.70644 1.71972 1.70644z m0.01768-0.78693c-0.61892 0-0.95491-0.32712-0.9549-0.95931l0-4.8665c0-0.6366 0.33598-0.96375 0.9549-0.96374l6.52524 0c0.60562 0 0.95487 0.32715 0.95487 0.96374l0 4.8665c0 0.63219-0.34926 0.95931-0.81784 0.95931l-6.66227 0z m1.08312-7.35101l0.78249 0.00442c0-0.83997 0.57914-1.45005 1.39699-1.45005 0.81789 0 1.39703 0.61008 1.39703 1.45005l0.78248-0.00442c0-1.22458-0.94609-2.18833-2.17951-2.18833-1.23342 0-2.17948 0.96375-2.17948 2.18833z",
+                          "fill": "#ffffffff",
+                          "width": 10,
+                          "height": 10,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.045269764959812164
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
