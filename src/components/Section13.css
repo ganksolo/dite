@@ -1,0 +1,152 @@
+.section13-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #FEFEFE;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 68px 178px;
+    box-sizing: border-box;
+    gap: 52px;
+}
+
+/* ─── Header ─── */
+.s13-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+    width: 100%;
+}
+
+.s13-brand-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 4px;
+    /* Space between logo and tagline */
+}
+
+/* Fallback stylized font for Medite logo */
+.s13-logo-medite {
+    font-family: "Brush Script MT", "Cursive", "Helvetica Neue", sans-serif;
+    font-size: 42px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1;
+    font-style: italic;
+    letter-spacing: -1px;
+}
+
+.s13-logo-sub {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 10px;
+    color: #666;
+    letter-spacing: 0.5px;
+    margin-left: 20px;
+    /* Align to look like the pen file */
+}
+
+.s13-tagline {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: #353535;
+    letter-spacing: 2.56px;
+    line-height: 1.375;
+    margin: 0;
+}
+
+.s13-desc {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #353535;
+    letter-spacing: 0.44px;
+    line-height: 1.636;
+    margin: 0;
+}
+
+/* ─── Grid Area ─── */
+.s13-grid-container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 100%;
+    max-width: 1120px;
+}
+
+/* Common Row */
+.s13-grid-row {
+    display: flex;
+    gap: 48px;
+    width: 100%;
+}
+
+/* Card General */
+.s13-card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 13px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.s13-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.s13-card-img {
+    height: 164px;
+    background-color: #c8c8c8;
+    width: 100%;
+    border-radius: 13px 13px 0 0;
+}
+
+.s13-card-footer {
+    height: 51px;
+    background-color: transparent;
+    border: 0.5px solid #d1d1d1;
+    border-top: none;
+    border-radius: 0 0 13px 13px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 14px;
+    box-sizing: border-box;
+}
+
+.s13-card-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 0.56px;
+}
+
+/* Sizing specific to Top Row */
+.s13-row-top .s13-card-large {
+    flex: 1;
+    /* Fills remaining space */
+}
+
+.s13-card-group {
+    display: flex;
+    gap: 48px;
+}
+
+.s13-card-small {
+    width: 260px;
+    flex-shrink: 0;
+}
+
+/* Sizing specific to Bottom Row */
+.s13-row-bottom .s13-card-medium {
+    flex: 1;
+    /* Divide equally among 3 */
+}

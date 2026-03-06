@@ -1,0 +1,620 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "XgM5l",
+      "x": -720,
+      "y": -414,
+      "name": "Section 29",
+      "width": 1440,
+      "fill": "#fefefeff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 56,
+      "padding": [
+        68,
+        180
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "CH4CO",
+          "name": "Frame 258",
+          "width": 655,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 32,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "zWKqN",
+              "name": "Frame 256",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "apSwV",
+                  "name": "Frame 255",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "hqbi9",
+                      "name": "MÉDITE ECOLOGY",
+                      "fill": "#353535ff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "MÉDITE ECOLOGY",
+                      "lineHeight": 1,
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "Helvetica Neue",
+                      "fontSize": 18,
+                      "fontWeight": "700",
+                      "letterSpacing": 0.36
+                    },
+                    {
+                      "type": "text",
+                      "id": "TuSVX",
+                      "name": "「标准化」与「个性化」完美融合。",
+                      "fill": "#353535ff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "拥有业务自组织能力的开放式供应链生态。",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 32,
+                      "fontWeight": "500",
+                      "letterSpacing": 2.56
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "l3tH1",
+                  "name": "MÉDITE销售团队与产品团队相",
+                  "fill": "#353535ff",
+                  "content": "通过构建开放且自主的供应链生态机制，\n帮助用户企业摆脱原本固有的供应链上下游业务关系，从而获得自行主导业务的能力。",
+                  "lineHeight": 1.6363636363636365,
+                  "textAlign": "center",
+                  "textAlignVertical": "middle",
+                  "fontFamily": "PingFang SC",
+                  "fontSize": 11,
+                  "fontWeight": "300",
+                  "letterSpacing": 0.44
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "2Mpae",
+              "name": "Frame 257",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 81,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "aNjwV",
+                  "name": "Frame 72",
+                  "width": 120,
+                  "height": 22,
+                  "fill": "#0079feff",
+                  "cornerRadius": 100,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "padding": [
+                    10,
+                    50
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "yuqkL",
+                      "name": "购买",
+                      "fill": "#fefefeff",
+                      "content": "了解面料商政策",
+                      "lineHeight": 1.4,
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "PSVp4",
+                  "name": "Frame 73",
+                  "width": 120,
+                  "height": 22,
+                  "fill": "#0079feff",
+                  "cornerRadius": 100,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "padding": [
+                    10,
+                    50
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "64gv5",
+                      "name": "购买",
+                      "fill": "#fefefeff",
+                      "content": "申请面料商合作",
+                      "lineHeight": 1.4,
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "liEpy",
+          "name": "Frame 110",
+          "width": 1120,
+          "fill": "#f9f9f9ff",
+          "cornerRadius": 18,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 10,
+          "padding": [
+            56,
+            43,
+            46,
+            43
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "zmX2g",
+              "name": "Frame 262",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 66,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "MOctV",
+                  "name": "Frame 111",
+                  "width": 250,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "padding": [
+                    16,
+                    0
+                  ],
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "lphc6",
+                      "name": "Frame 56",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": {
+                          "bottom": 0.5
+                        },
+                        "fill": "#666666ff"
+                      },
+                      "gap": 160.8527069091797,
+                      "padding": [
+                        0,
+                        12,
+                        16,
+                        0
+                      ],
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "l74Sl",
+                          "name": "部暑：",
+                          "fill": "#333333ff",
+                          "content": "纺织来源地",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 14,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.56
+                        },
+                        {
+                          "type": "frame",
+                          "id": "T4Cg9",
+                          "name": "chevron.up 3",
+                          "rotation": 180,
+                          "flipX": true,
+                          "clip": true,
+                          "width": 14,
+                          "height": 14,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.06564109772443771
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "fD6Vm",
+                              "x": 1,
+                              "y": 3.564100742340088,
+                              "name": "Vector",
+                              "geometry": "M2.92969 103.613c-1.75781 1.758-2.92969 4.199-2.92969 6.934 0 5.566 4.19922 9.765 9.76562 9.765 2.63668 0 5.17578-0.97599 6.83598-2.832l96.0934-99.8042-12.011 0 95.898 99.8042c1.758 1.85601 4.39501 2.832 6.93401 2.832 5.56599 0 9.765-4.199 9.765-9.765 0-2.735-1.07401-5.078-2.929-6.934l-96.29001-100.29269c-1.95301-2.05078-4.589-3.32031-7.421-3.32031-2.832 0-5.371 1.17188-7.4222 3.32031l-96.28911 100.29269z",
+                              "fill": "#000000ff",
+                              "width": 12,
+                              "height": 6.769210338592529,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.056263796985149384
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "XaM1x",
+                      "name": "Frame 110",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": {
+                          "bottom": 0.5
+                        },
+                        "fill": "#666666ff"
+                      },
+                      "gap": 160.8527069091797,
+                      "padding": [
+                        0,
+                        12,
+                        16,
+                        0
+                      ],
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "f7obQ",
+                          "name": "部暑：",
+                          "fill": "#333333ff",
+                          "content": "精细化纺织",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 14,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.56
+                        },
+                        {
+                          "type": "frame",
+                          "id": "yJkX2",
+                          "name": "chevron.up 3",
+                          "rotation": 180,
+                          "flipX": true,
+                          "clip": true,
+                          "width": 14,
+                          "height": 14,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.06564109772443771
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "9opdQ",
+                              "x": 1,
+                              "y": 3.564100742340088,
+                              "name": "Vector",
+                              "geometry": "M2.92969 103.613c-1.75781 1.758-2.92969 4.199-2.92969 6.934 0 5.566 4.19922 9.765 9.76562 9.765 2.63668 0 5.17578-0.97599 6.83598-2.832l96.0934-99.8042-12.011 0 95.898 99.8042c1.758 1.85601 4.39501 2.832 6.93401 2.832 5.56599 0 9.765-4.199 9.765-9.765 0-2.735-1.07401-5.078-2.929-6.934l-96.29001-100.29269c-1.95301-2.05078-4.589-3.32031-7.421-3.32031-2.832 0-5.371 1.17188-7.4222 3.32031l-96.28911 100.29269z",
+                              "fill": "#000000ff",
+                              "width": 12,
+                              "height": 6.769210338592529,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.056263796985149384
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "TiKGd",
+                      "name": "Frame 111",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": {
+                          "bottom": 0.5
+                        },
+                        "fill": "#666666ff"
+                      },
+                      "layout": "vertical",
+                      "gap": 16,
+                      "padding": [
+                        0,
+                        0,
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "74HNG",
+                          "name": "Frame 112",
+                          "width": "fill_container",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "gap": 158,
+                          "padding": [
+                            0,
+                            12,
+                            0,
+                            0
+                          ],
+                          "justifyContent": "space_between",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "y3DaE",
+                              "name": "部暑：",
+                              "fill": "#333333ff",
+                              "content": "面料生产与销售",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 14,
+                              "fontWeight": "normal",
+                              "letterSpacing": 0.56
+                            },
+                            {
+                              "type": "frame",
+                              "id": "smFRF",
+                              "name": "chevron.up 3",
+                              "clip": true,
+                              "width": 14,
+                              "height": 14,
+                              "fill": {
+                                "type": "color",
+                                "color": "#ffffffff",
+                                "enabled": false
+                              },
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.06564109772443771
+                              },
+                              "layout": "none",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "0FOKn",
+                                  "x": 1,
+                                  "y": 3.564100742340088,
+                                  "name": "Vector",
+                                  "geometry": "M2.92969 103.613c-1.75781 1.758-2.92969 4.199-2.92969 6.934 0 5.566 4.19922 9.765 9.76562 9.765 2.63668 0 5.17578-0.97599 6.83598-2.832l96.0934-99.8042-12.011 0 95.898 99.8042c1.758 1.85601 4.39501 2.832 6.93401 2.832 5.56599 0 9.765-4.199 9.765-9.765 0-2.735-1.07401-5.078-2.929-6.934l-96.29001-100.29269c-1.95301-2.05078-4.589-3.32031-7.421-3.32031-2.832 0-5.371 1.17188-7.4222 3.32031l-96.28911 100.29269z",
+                                  "fill": "#000000ff",
+                                  "width": 12,
+                                  "height": 6.769210338592529,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.056263796985149384
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "dOeFJ",
+                          "name": "Frame 113",
+                          "width": 237.99998474121094,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "gap": 158,
+                          "justifyContent": "space_between",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "6Ym6U",
+                              "name": "部暑：",
+                              "fill": "#666666ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "无论是定制门店还是消费者，均可使用自有设备直接查询面料库存或者下单采购，并由MÉDITE Ai进行辅助，从而为面料销售商提供顺畅且闭环\n的多维度销售场景。",
+                              "lineHeight": 1.6,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "frame",
+                              "id": "wtc94",
+                              "name": "Frame 54",
+                              "width": 9.689922332763672,
+                              "height": 9.689922332763672,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.9689922332763672
+                              },
+                              "layout": "none"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "gA0wD",
+                      "name": "Frame 112",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": {
+                          "bottom": 0.5
+                        },
+                        "fill": "#666666ff"
+                      },
+                      "gap": 160.8527069091797,
+                      "padding": [
+                        0,
+                        12,
+                        16,
+                        0
+                      ],
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "OII87",
+                          "name": "部暑：",
+                          "fill": "#333333ff",
+                          "content": "OEM代工厂",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 14,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.56
+                        },
+                        {
+                          "type": "frame",
+                          "id": "Re0dS",
+                          "name": "chevron.up 3",
+                          "rotation": 180,
+                          "flipX": true,
+                          "clip": true,
+                          "width": 14,
+                          "height": 14,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.06564109772443771
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "ujlII",
+                              "x": 1,
+                              "y": 3.564100742340088,
+                              "name": "Vector",
+                              "geometry": "M2.92969 103.613c-1.75781 1.758-2.92969 4.199-2.92969 6.934 0 5.566 4.19922 9.765 9.76562 9.765 2.63668 0 5.17578-0.97599 6.83598-2.832l96.0934-99.8042-12.011 0 95.898 99.8042c1.758 1.85601 4.39501 2.832 6.93401 2.832 5.56599 0 9.765-4.199 9.765-9.765 0-2.735-1.07401-5.078-2.929-6.934l-96.29001-100.29269c-1.95301-2.05078-4.589-3.32031-7.421-3.32031-2.832 0-5.371 1.17188-7.4222 3.32031l-96.28911 100.29269z",
+                              "fill": "#000000ff",
+                              "width": 12,
+                              "height": 6.769210338592529,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.056263796985149384
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "rectangle",
+                  "id": "Se7b5",
+                  "name": "image 33",
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "",
+                    "mode": "fill"
+                  },
+                  "width": 649,
+                  "height": 353,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

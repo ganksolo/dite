@@ -1,0 +1,498 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "2NNyt",
+      "x": -720,
+      "y": -414,
+      "name": "Section 33",
+      "width": 1440,
+      "fill": "#f5f5f7ff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 52,
+      "padding": [
+        68,
+        136
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "ob2OY",
+          "name": "Frame 266",
+          "width": 724,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "sZSbu",
+              "name": "Frame 265",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 16,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "MdaAH",
+                  "name": "MÉDITE DPP",
+                  "fill": "#353535ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "MÉDITE DPP",
+                  "lineHeight": 1,
+                  "textAlign": "center",
+                  "textAlignVertical": "middle",
+                  "fontFamily": "Helvetica Neue",
+                  "fontSize": 18,
+                  "fontWeight": "700",
+                  "letterSpacing": 0.36
+                },
+                {
+                  "type": "text",
+                  "id": "qdp2I",
+                  "name": "「标准化」与「个性化」完美融合。",
+                  "fill": "#333333ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "从纺织源头到成衣交付，供应链环节均可追溯。",
+                  "lineHeight": 1.375,
+                  "textAlignVertical": "middle",
+                  "fontFamily": "PingFang SC",
+                  "fontSize": 32,
+                  "fontWeight": "500",
+                  "letterSpacing": 2.56
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "nfLuO",
+              "name": "MÉDITE销售团队与产品团队相",
+              "fill": "#333333ff",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "基于MÉDITE供应链数据管理能力，从纺织原料生产开始至成衣最终交付，DPP 产品数字护照全程实现可追溯。",
+              "lineHeight": 1.6363636363636365,
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "PingFang SC",
+              "fontSize": 11,
+              "fontWeight": "300",
+              "letterSpacing": 0.44
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "8Pzru",
+          "name": "Frame 268",
+          "width": 1120,
+          "fill": "#f9f9f9ff",
+          "cornerRadius": 18,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "gap": 2,
+          "padding": [
+            68,
+            148,
+            0,
+            148
+          ],
+          "justifyContent": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "8WZOC",
+              "name": "Frame 267",
+              "clip": true,
+              "width": 506,
+              "height": 464,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "rectangle",
+                  "id": "kbiYx",
+                  "x": 0,
+                  "y": 0,
+                  "name": "image 34",
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "",
+                    "mode": "stretch"
+                  },
+                  "width": 507,
+                  "height": 681,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  }
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "y2Afo",
+              "name": "Frame 111",
+              "width": 364,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 20,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "uvgb5",
+                  "name": "Frame 111",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": {
+                      "bottom": 0.5
+                    },
+                    "fill": "#666666ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 16,
+                  "padding": [
+                    0,
+                    0,
+                    16,
+                    0
+                  ],
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "LFS2b",
+                      "name": "Frame 112",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "2B3p7",
+                          "name": "部暑：",
+                          "fill": "#333333ff",
+                          "content": "关注产品质量及安全性",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 14,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.56
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "k2Pyf",
+                      "name": "Frame 113",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "3JvSk",
+                          "name": "部暑：",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "产品数字护照可以实现产品信息的可追溯性和透明度，有助于提高产品质量和安全性，增强消费者信任。",
+                          "lineHeight": 1.6,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "0rhMy",
+                  "name": "Frame 113",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": {
+                      "bottom": 0.5
+                    },
+                    "fill": "#666666ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 16,
+                  "padding": [
+                    0,
+                    0,
+                    16,
+                    0
+                  ],
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "14aPG",
+                      "name": "Frame 112",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "AK6jV",
+                          "name": "部暑：",
+                          "fill": "#333333ff",
+                          "content": "提高企业竞争力",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 14,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.56
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "1cRWJ",
+                      "name": "Frame 113",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "8LOZE",
+                          "name": "部暑：",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "产品数字护照可以帮助企业实现数字化转型，提高生产效率和管理水平，增强企业竞争力。",
+                          "lineHeight": 1.6,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "qWFOO",
+                  "name": "Frame 114",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": {
+                      "bottom": 0.5
+                    },
+                    "fill": "#666666ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 16,
+                  "padding": [
+                    0,
+                    0,
+                    16,
+                    0
+                  ],
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "hcThE",
+                      "name": "Frame 112",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "cisX7",
+                          "name": "部暑：",
+                          "fill": "#333333ff",
+                          "content": "促进业务及市场可持续发展",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 14,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.56
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "6a3tk",
+                      "name": "Frame 113",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "HVnmh",
+                          "name": "部暑：",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "产品数字护照可以支持循环经济的发展，减少资源浪费和环境污染，促进可持续发展。",
+                          "lineHeight": 1.6,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "KC9On",
+                  "name": "Frame 115",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": {
+                      "bottom": 0.5
+                    },
+                    "fill": {
+                      "type": "color",
+                      "color": "#666666ff",
+                      "enabled": false
+                    }
+                  },
+                  "layout": "vertical",
+                  "gap": 16,
+                  "padding": [
+                    0,
+                    0,
+                    16,
+                    0
+                  ],
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "QXZyR",
+                      "name": "Frame 112",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "NiZqK",
+                          "name": "部暑：",
+                          "fill": "#333333ff",
+                          "content": "推动国际贸易顺利进行",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 14,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.56
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "FNbv6",
+                      "name": "Frame 113",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 158,
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "wrS0d",
+                          "name": "部暑：",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "产品数字护照可以实现产品信息的跨国共享和互认，从而有效推动国际贸易的便利化和自由化。",
+                          "lineHeight": 1.6,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

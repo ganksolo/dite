@@ -1,0 +1,259 @@
+.section4-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #F9F9F9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header Area (White Section) */
+.s4-header {
+    background-color: #FFFFFF;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 68px 354px;
+    /* From Frame 241 */
+    gap: 16px;
+    box-sizing: border-box;
+}
+
+.s4-company {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+    margin: 0;
+    line-height: 1;
+}
+
+.s4-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: #333333;
+    letter-spacing: 2.56px;
+    line-height: 1.375;
+    margin: 0;
+    text-align: center;
+}
+
+.s4-description {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #333333;
+    letter-spacing: 0.44px;
+    line-height: 1.636;
+    text-align: center;
+    margin: 0;
+}
+
+/* Main Content Area */
+.s4-main-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 56px;
+    background-color: #FEFEFE;
+    /* Underneath structure */
+}
+
+/* Toolbar */
+.s4-toolbar {
+    width: 100%;
+    max-width: 1360px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+}
+
+.s4-toolbar-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+    color: #333333;
+    letter-spacing: 0.88px;
+}
+
+.s4-toolbar-subtitle {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #666666;
+    letter-spacing: 0.64px;
+}
+
+/* Hero Banner (The Tailor Mockup Background) */
+.s4-hero-banner {
+    width: 100%;
+    max-width: 1368px;
+    height: 504px;
+    border-radius: 14px;
+    overflow: hidden;
+    position: relative;
+    /* Dark sophisticated linear gradient as image placeholder since we don't have the Tailor image in assets */
+    background: linear-gradient(135deg, #1c1a1a 0%, #3d3b38 50%, #151413 100%);
+    margin-bottom: 28px;
+}
+
+.s4-hero-overlay {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    /* Align to right based on design doc */
+    align-items: center;
+    padding-right: 174px;
+    /* calculated roughly from 1368 width placing box at right */
+    box-sizing: border-box;
+}
+
+.s4-hero-text-content {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    width: 275px;
+}
+
+.s4-hero-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    color: #FFFFFF;
+    letter-spacing: 2.56px;
+    line-height: 1.375;
+    margin: 0;
+}
+
+.s4-hero-desc {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    color: #FFFFFF;
+    letter-spacing: 0.48px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.s4-hero-sub {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #FFFFFF;
+    letter-spacing: 0.48px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* Devices Icons */
+.s4-hero-devices {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+/* Action Button Inside Hero */
+.s4-hero-btn {
+    background-color: #FFFFFF;
+    color: #333333;
+    width: 126px;
+    height: 26px;
+    border-radius: 100px;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    letter-spacing: 0.4px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    transition: background-color 0.2s;
+}
+
+.s4-hero-btn:hover {
+    background-color: #f0f0f0;
+}
+
+/* Info Cards Grid (Bottom section) */
+.s4-cards-container {
+    width: 100%;
+    padding: 28px 94px;
+    background-color: #F9F9F9;
+    display: flex;
+    justify-content: space-between;
+    gap: 28px;
+    box-sizing: border-box;
+}
+
+.s4-card {
+    width: 228px;
+    background-color: #FEFEFE;
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
+    padding: 14px 18px 10px 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 18px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.s4-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border-color: #c0c0c0;
+}
+
+/* Card Header (Icon & Add button) */
+.s4-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.s4-card-icon {
+    width: 16px;
+    height: 16px;
+    color: #333;
+}
+
+.s4-card-add {
+    width: 16px;
+    height: 16px;
+}
+
+/* Card Body (Text and Title) */
+.s4-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.s4-card-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: #333333;
+    letter-spacing: 0.52px;
+    margin: 0;
+}
+
+.s4-card-desc {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    color: #666666;
+    letter-spacing: 0.4px;
+    margin: 0;
+    line-height: 1.5;
+}

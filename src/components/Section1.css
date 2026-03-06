@@ -1,0 +1,210 @@
+.section1-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+.s1-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0 8px 0;
+    gap: 8px;
+    background-color: #FEFEFE;
+}
+
+.s1-logo {
+    font-family: var(--font-family-base);
+    font-size: 26px;
+    /* Approx for xcbZg */
+    font-weight: 700;
+    color: #000;
+    line-height: 26px;
+    letter-spacing: 2px;
+}
+
+.s1-nav-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+    padding: 12px 0;
+    width: 100%;
+}
+
+.s1-nav {
+    display: flex;
+    gap: 48px;
+}
+
+.s1-nav a {
+    text-decoration: none;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 0.36px;
+    line-height: 1.55;
+    text-transform: uppercase;
+}
+
+.s1-icons {
+    display: flex;
+    gap: 16px;
+    color: #333333;
+}
+
+/* Hero Section */
+.s1-hero {
+    position: relative;
+    width: 100%;
+    max-width: 1440px;
+    height: 519px;
+    /* Simulating the wavy green background from design */
+    background: linear-gradient(135deg, #00C853 0%, #00931B 50%, #00600F 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s1-hero-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 29px;
+    /* Gap from Frame 8 */
+}
+
+.s1-hero-subtitle {
+    color: #FFFFFF;
+    font-family: var(--font-family-base);
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.s1-hero-title {
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: 58px;
+    font-weight: 700;
+    letter-spacing: 4.64px;
+    text-align: center;
+    margin: 0;
+}
+
+.s1-hero-buttons {
+    display: flex;
+    gap: 29px;
+    margin-top: 10px;
+}
+
+.s1-pill-btn {
+    background-color: #FEFEFE;
+    color: #00931B;
+    border: none;
+    border-radius: 100px;
+    width: 158px;
+    padding: 6px 0;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0.48px;
+    line-height: 1.33;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.s1-pill-btn:hover {
+    opacity: 0.9;
+}
+
+/* Content Grid */
+.s1-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 210px;
+    /* Using 40px top/bottom for spacing, 210px sides from 9v4x0 */
+    height: 248px;
+    background-color: #FEFEFE;
+    gap: 12px;
+}
+
+.s1-content-title {
+    width: 100%;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #333333;
+    line-height: 1.45;
+    margin: 0;
+}
+
+.s1-cards {
+    display: flex;
+    gap: 36px;
+    width: 100%;
+}
+
+.s1-card {
+    width: 228px;
+    display: flex;
+    flex-direction: column;
+}
+
+.s1-card-img {
+    width: 100%;
+    height: 94px;
+    border-radius: 9px 9px 0 0;
+    background-color: #5D3A26;
+    /* Placeholder for Images */
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.05);
+    /* Slight inner border simulation */
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Fallback colors for images */
+.s1-card:nth-child(1) .s1-card-img {
+    background-image: linear-gradient(135deg, #00C853, #00E676);
+}
+
+.s1-card:nth-child(2) .s1-card-img {
+    background-image: linear-gradient(135deg, #1E3A8A, #1D4ED8);
+}
+
+.s1-card:nth-child(3) .s1-card-img {
+    background-image: linear-gradient(135deg, #78350F, #92400E);
+}
+
+.s1-card:nth-child(4) .s1-card-img {
+    background-image: linear-gradient(135deg, #1F2937, #374151);
+}
+
+.s1-card-bottom {
+    border: 0.5px solid #D1D1D1;
+    border-top: none;
+    border-radius: 0 0 9px 9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 12px 16px;
+    background-color: transparent;
+}
+
+.s1-card-bottom span {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 0.44px;
+    line-height: 1.45;
+}

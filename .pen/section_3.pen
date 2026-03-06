@@ -1,0 +1,1174 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "50Bo3",
+      "x": -720,
+      "y": -414,
+      "name": "Section 23",
+      "width": 1440,
+      "fill": "#ffffffff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 78,
+      "padding": [
+        68,
+        217
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "s1Hsy",
+          "name": "Frame 213",
+          "width": 413,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 16,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "DlmBx",
+              "name": "MÉDITE 安全",
+              "fill": "#353535ff",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "MÉDITE 安全",
+              "lineHeight": 1,
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "Helvetica Neue",
+              "fontSize": 18,
+              "fontWeight": "700",
+              "letterSpacing": 0.36
+            },
+            {
+              "type": "frame",
+              "id": "R85Fu",
+              "name": "Frame 212",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "6ieF6",
+                  "name": "「标准化」与「个性化」完美融合。",
+                  "fill": "#353535ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "数据安全，源于架构可控。",
+                  "lineHeight": 1.375,
+                  "textAlignVertical": "middle",
+                  "fontFamily": "PingFang SC",
+                  "fontSize": 32,
+                  "fontWeight": "500",
+                  "letterSpacing": 2.56
+                },
+                {
+                  "type": "text",
+                  "id": "2qHuS",
+                  "name": "MÉDITE销售团队与产品团队相",
+                  "fill": "#353535ff",
+                  "content": "MÉDITE SaaS&Ai 为用户提供本地化部署+云端混合数据应用双重保障。\n从架构源头守护用户数据安全，让高效与安心同步实现。",
+                  "lineHeight": 1.6363636363636365,
+                  "textAlign": "center",
+                  "textAlignVertical": "middle",
+                  "fontFamily": "PingFang SC",
+                  "fontSize": 11,
+                  "fontWeight": "300",
+                  "letterSpacing": 0.44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "quD5z",
+          "name": "Frame 210",
+          "width": 1020,
+          "height": 488,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 42,
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "9adl8",
+              "name": "Frame 208",
+              "width": 1020,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 72,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "E4DyL",
+                  "name": "Frame 206",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "g31c8",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "yUCec",
+                          "x": 4.005859375,
+                          "y": 9.283821105957031,
+                          "name": "arrow.trianglehead.2.clockwise.rotate.90.icloud 1",
+                          "clip": true,
+                          "width": 44,
+                          "height": 32.92765808105469,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.14102022349834442
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "DIcEL",
+                              "x": 0,
+                              "y": -0.0007171630859375,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "6z49s",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l312.01199 0 0 233.496-312.01199 0 0-233.496z",
+                                  "fill": "#000000ff",
+                                  "width": 44,
+                                  "height": 32.92765808105469,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.14102022349834442
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "mNMnw",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "geometry": "M245.80099 214.746c37.20701 0 66.211-26.85499 66.211-60.64399 0-25.879-14.64901-48.53602-39.453-58.30121 0.68301-55.4688-38.965-95.8008-89.55099-95.8008-34.278 0-58.203 18.5547-72.656 40.918-30.4692-9.8633-64.0629 13.5742-64.4536 48.5351-28.0273 3.9063-45.8984 28.4179-45.8984 58.7889 0 36.426 31.6406 66.40599 73.7305 66.40599l172.07049 0.09801z m-0.09799-17.285l-172.0702-0.09799c-32.3242 0-56.3476-22.36301-56.3476-49.12101 0-25.38999 15.332-45.312 42.0898-45.312 1.5625 0 2.2461-0.879 2.2461-2.442 0-37.695 28.0273-50.8786 54.1989-41.6989 1.465 0.4882 2.344 0.1953 3.125-1.1719 12.305-21.875 31.24999-40.332 64.063-40.332 41.21099 0 70.41 32.7148 72.75399 71.289 0.39002 5.3711 0.00002 11.7188-0.39099 17.3828-0.09801 1.465 0.48799 2.441 1.85599 2.734 22.85101 5.371 37.5 22.559 37.5 45.41101 0 24.31599-21.38699 43.35899-49.02399 43.35899z",
+                                  "fill": "#ffffffff",
+                                  "width": 44,
+                                  "height": 30.283527374267578,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.14102022349834442
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "NTfpU",
+                                  "x": 12.787678718566895,
+                                  "y": 9.213215827941895,
+                                  "name": "Vector",
+                                  "geometry": "M3.85019 63.965l34.96081 0c4.102 0 5.078-3.906 2.832-7.129l-15.62501-22.07c-2.539-3.7113-6.836-3.8089-9.472 0l-15.4301 22.07c-2.1485 3.125-1.1719 7.129 2.7343 7.129z m66.21081 46.973c13.672 0 26.07399-4.98101 34.86299-12.598 4.2-3.223 4.297-7.71499 2.149-10.44899-2.051-2.539-5.957-3.41801-10.254-0.29302-7.129 5.957-16.309 9.76501-26.75799 9.76502-23.047 0-41.89401-18.75001-41.89401-41.89401 0-3.711-3.028-6.73901-6.739-6.739-3.711 0-6.738 3.02801-6.738 6.739 0 30.664 24.805 55.469 55.37101 55.469z m66.30898-63.868l-34.96099 0c-4.199 0-5.078 3.907-2.832 7.032l15.52701 22.07c2.637 3.711 6.83599 3.906 9.56999 0l15.333-22.07c2.246-3.125 1.269-7.032-2.63701-7.032z m-66.30898-47.07c-13.574 0-25.97601 5.0782-34.76501 12.5977-4.2 3.2226-4.297 7.7148-2.14899 10.4492 2.051 2.5391 5.957 3.5156 10.25399 0.3906 7.129-6.0547 16.30901-9.8633 26.66001-9.8633 23.145 0 41.99199 18.75001 41.99199 41.8948 0 3.711 3.02801 6.738 6.73901 6.738 3.711 0 6.73799-3.027 6.73799-6.738 0-30.5666-24.80499-55.469-55.46899-55.469z",
+                                  "fill": "#ffffffff",
+                                  "width": 19.770132064819336,
+                                  "height": 15.644501686096191,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.14102022349834442
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "q4hh8",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "content": "本地化部署+云端混合数据应用，兼顾安全\n与效率;",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "tFXnu",
+                  "name": "Frame 207",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "PHNqc",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "otdr1",
+                          "x": 4,
+                          "y": 14,
+                          "name": "lock.laptopcomputer 1",
+                          "clip": true,
+                          "width": 44,
+                          "height": 24.793621063232422,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.12330594658851624
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "qgQ49",
+                              "x": 0.00006103515625,
+                              "y": -0.0008650848467368633,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "fhsa6",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l356.836 0 0 201.07401-356.836 0 0-201.07401z",
+                                  "fill": "#000000ff",
+                                  "width": 44,
+                                  "height": 24.793621063232422,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.12330594658851624
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "RvROi",
+                                  "x": 0,
+                                  "y": 0.024083192372927442,
+                                  "name": "Vector",
+                                  "geometry": "M0 187.89069c0 7.22599 5.66406 12.988 12.793 12.988l331.25 0c7.129 0 12.793-5.76201 12.793-12.988 0-7.22701-5.664-12.988-12.793-12.988l-27.63699 0 0-148.8285c0-17.18747-9.082-26.07419-26.26902-26.07419l-223.43779 0c-16.4062 0-26.2695 8.88672-26.2695 26.07419l0 148.8285-27.6367 0c-7.12894 0-12.793 5.76099-12.793 12.988z m57.7148-12.988l0-144.2386c0-8.9844 4.4922-13.3789 13.379-13.3789l214.6482 0c8.887 0 13.379 4.3945 13.379 13.3789l0 144.2386-241.4062 0z",
+                                  "fill": "#ffffffff",
+                                  "width": 44,
+                                  "height": 24.7695369720459,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.12330594658851624
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "AbdVP",
+                                  "x": 18.062395095825195,
+                                  "y": 6.044881394976983,
+                                  "name": "Vector",
+                                  "geometry": "M10.45001 90.82059l42.96799 0.00001c6.934 0 10.54701-3.71099 10.54701-11.03499l0-33.98481c0-6.0547-2.539-9.66801-7.226-10.8398l0-7.6172c0-16.211-9.96101-27.3438-24.805-27.3438-14.648 0-24.60899 11.1328-24.609 27.3438l0 7.7148c-4.786 1.0742-7.32501 4.6875-7.32501 10.7422l0 33.98481c0 7.324 3.51601 11.03499 10.45001 11.03499z m8.105-56.15259l0-8.2031c0-9.375 5.273-15.5274 13.379-15.5274 8.105 0 13.47701 6.1524 13.477 15.5274l0 8.2031-26.856 0z",
+                                  "fill": "#ffffffff",
+                                  "width": 7.887266159057617,
+                                  "height": 11.198719024658203,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.12330594658851624
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "7GKIf",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "核心数据本地存储，敏感信息不出本地域从源头保障数据主权;",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "tfQ4P",
+              "name": "Frame 209",
+              "width": 1020,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 72,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "daYKo",
+                  "name": "Frame 206",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "qeEff",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "aZNPy",
+                          "x": 4,
+                          "y": 10,
+                          "name": "exclamationmark.icloud 1",
+                          "clip": true,
+                          "width": 44,
+                          "height": 32.92765808105469,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.14102022349834442
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "9XGyI",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "0TXSc",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l312.01199 0 0 233.496-312.01199 0 0-233.496z",
+                                  "fill": "#000000ff",
+                                  "width": 44,
+                                  "height": 32.92765808105469,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.14102022349834442
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "N3gKs",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "geometry": "M245.80099 214.746c37.20701 0 66.211-26.85499 66.211-60.64399 0-25.879-14.64901-48.53602-39.453-58.30121 0.68301-55.4688-38.965-95.8008-89.55099-95.8008-34.278 0-58.203 18.5547-72.656 40.918-30.4692-9.8633-64.0629 13.5742-64.4536 48.5351-28.0273 3.9063-45.8984 28.4179-45.8984 58.7889 0 36.426 31.6406 66.40599 73.7305 66.40599l172.07049 0.09801z m-0.09799-17.285l-172.0702-0.09799c-32.3242 0-56.3476-22.36301-56.3476-49.12101 0-25.38999 15.332-45.312 42.0898-45.312 1.5625 0 2.2461-0.879 2.2461-2.442 0-37.695 28.0273-50.8786 54.1989-41.6989 1.465 0.4882 2.344 0.1953 3.125-1.1719 12.305-21.875 31.24999-40.332 64.063-40.332 41.21099 0 70.41 32.7148 72.75399 71.289 0.39002 5.3711 0.00002 11.7188-0.39099 17.3828-0.09801 1.465 0.48799 2.441 1.85599 2.734 22.85101 5.371 37.5 22.559 37.5 45.41101 0 24.31599-21.38699 43.35899-49.02399 43.35899z",
+                                  "fill": "#ffffffff",
+                                  "width": 44,
+                                  "height": 30.28352928161621,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.14102022349834442
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "TuQUk",
+                                  "x": 20.25802230834961,
+                                  "y": 8.841299057006836,
+                                  "name": "Vector",
+                                  "geometry": "M12.5 68.2617c5.176 0 8.203-3.12501 8.399-8.887l1.56201-49.1208c0.196-6.0547-4.19901-10.2539-10.05801-10.2539-5.957 0-10.25399 4.1016-10.05899 10.1563l1.465 49.2184c0.293 5.664 3.22299 8.887 8.69099 8.887z m-0.097 38.47701c6.64 0 12.304-5.37201 12.304-12.01201 0-6.738-5.566-12.01199-12.304-12.01199-6.836 0-12.403 5.37099-12.403 12.01199 0 6.543 5.664 12.01201 12.403 12.01201z",
+                                  "fill": "#ffffffff",
+                                  "width": 3.4841866493225098,
+                                  "height": 15.052315711975098,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.14102022349834442
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "h1WJS",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "云端仅承载轻量化协同能力，关键业务数据不上云;",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "uDUvo",
+                  "name": "Frame 207",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "4aPkw",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "NVl6D",
+                          "x": 4.17578125,
+                          "y": 14.7783203125,
+                          "name": "key.horizontal 1",
+                          "clip": true,
+                          "width": 44,
+                          "height": 23.384428024291992,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.1417745053768158
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "kWcOT",
+                              "x": 0,
+                              "y": -0.000037162921216804534,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "lNuqr",
+                                  "x": 0,
+                                  "y": 0.000037162921216804534,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l310.35199 0 0 164.94099-310.35199 0 0-164.94099z",
+                                  "fill": "#000000ff",
+                                  "width": 44,
+                                  "height": 23.384428024291992,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.1417745053768158
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "iaKOi",
+                                  "x": 0.004644076339900494,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "geometry": "M3.09377 75c-3.80859 4.4922-4.39453 10.54691-0.09766 14.8438l38.86716 38.8672c4.1993 4.199 10.6446 4.00401 14.7461-0.09799l20.80079-20.80101 29.6876 29.78601c4.101 4.101 10.54701 3.90599 14.844-0.29302l28.41801-28.22299c16.11301 35.64501 44.23799 55.664 77.734 55.664 45.50801 0 82.227-36.81601 82.227-82.3241 0-45.8008-36.52402-82.4219-82.227-82.4219-33.398 0-63.086 19.4336-75.879 50.0977l-119.7265 0c-3.7109 0-8.0078 1.0742-10.8398 4.3945l-18.5547 20.5078z m16.9922 7.4219l14.9414-15.0391 129.58939 0c7.129-29.5898 32.91101-50.0976 63.47701-50.0976 35.84001 0 64.844 29.0039 64.844 65.1367 0 36.0351-28.90701 64.94111-64.844 64.94111-30.273 0-56.348-20.60501-64.844-54.10131l-21.875 0-26.953 26.9533-27.92961-28.2228-17.8711 0-19.23819 19.3358-29.2969-28.9061z m212.59779 0c0 11.0351 8.98401 20.0191 20.11701 20.0191 11.03498 0 19.92201-8.984 19.92201-20.0191 0-11.2305-8.88703-20.0196-19.92201-20.0196-11.133 0-20.11701 8.8868-20.11701 20.0196z",
+                                  "fill": "#ffffffff",
+                                  "width": 43.995574951171875,
+                                  "height": 23.356782913208008,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.1417745053768158
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "uFuPN",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "全链路数据均采用加密传输与存储，严防泄露、篡改与非法访问;",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "TGkxO",
+              "name": "Frame 210",
+              "width": 1020,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 72,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "ifZLq",
+                  "name": "Frame 206",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "fwENm",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "UYn9X",
+                          "x": 3.828125,
+                          "y": 12.224609375,
+                          "name": "person.text.rectangle.trianglebadge.exclamationmark 1",
+                          "clip": true,
+                          "width": 44,
+                          "height": 28.17190933227539,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09828975796699524
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "jZXnE",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "ugsa3",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l447.65601 0 0 286.621-447.65601 0 0-286.621z",
+                                  "fill": "#000000ff",
+                                  "width": 44,
+                                  "height": 28.17190933227539,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.09828975796699524
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "T9Oa0",
+                                  "x": 7.4579973220825195,
+                                  "y": 2.8027312755584717,
+                                  "name": "Vector",
+                                  "geometry": "M295.8981 37.6953l0 64.13711c-2.79199-0.826-5.68902-1.24601-8.59302-1.24601-2.98999 0-5.95098 0.422-8.789 1.254l0-63.2662c0-13.9648-7.61798-21.289-20.99698-21.289l-219.13999 0c-13.672 0-21.0939 7.3242-21.09391 21.289l0 152.44121c0 14.063 7.4219 21.289 21.09391 21.289l167.89198 0c-2.23801 4.399-3.53699 9.44199-3.53699 14.15999 0 1.056 0.04898 2.09902 0.14899 3.12502l-164.89499 0c-25.1951 0-37.9881-12.59702-37.9881-37.59702l0-154.2971c0-25 12.793-37.6953 37.9881-37.6953l219.824 0c25.293 0 38.086 12.793 38.086 37.6953z",
+                                  "fill": "#ffffffff",
+                                  "width": 29.083751678466797,
+                                  "height": 22.566287994384766,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.09828975796699524
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "DvdRj",
+                                  "x": 11.2494478225708,
+                                  "y": 8.091565132141113,
+                                  "name": "Vector",
+                                  "geometry": "M189.98499 118.6528l-51.01999 0c-4.004 0-6.93401-2.93001-6.93401-6.641 0-3.809 2.93001-6.836 6.93401-6.836l58.57501 0-7.55502 13.477z m-77.973-5.957c0 3.515-1.856 5.957-5.664 5.957l-100.781 0c-3.809 0-5.56699-2.442-5.56699-5.957 0-12.11 17.871-43.55501 55.957-43.55501 38.086 0 56.05499 31.44501 56.05499 43.55501z m103.90601-51.66101c0 3.809-2.92999 6.83601-6.836 6.83601l-70.117 0c-4.004 0-6.93401-3.02702-6.93401-6.83601 0-3.711 2.93001-6.64 6.93401-6.64l70.117 0c3.90601 0 6.836 2.929 6.836 6.64z m-132.129-31.15199c0 17.383-12.402 30.469-27.832 30.371-15.43 0-27.93001-12.988-27.93001-30.371 0-16.3086 12.50001-29.8828 27.93001-29.8828 15.43 0 27.832 13.5742 27.832 29.8828z m132.129-19.6289c0 3.8086-2.92999 6.836-6.836 6.836l-70.117 0c-4.004 0-6.93401-3.0274-6.93401-6.836 0-3.8086 2.93001-6.7383 6.93401-6.73831l70.117 0c3.90601 0 6.836 2.9297 6.836 6.73831z",
+                                  "fill": "#ffffffff",
+                                  "width": 21.2225284576416,
+                                  "height": 11.662355422973633,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.09828975796699524
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "mt5hn",
+                                  "x": 28.910888671875,
+                                  "y": 14.205879211425781,
+                                  "name": "Vector",
+                                  "geometry": "M83.00702 8.10599l52.832 94.33601c1.465 2.734 2.24698 5.37099 2.24698 8.00699 0 9.082-6.34799 16.30901-16.211 16.30901l-105.664 0c-9.864 0-16.211-7.22701-16.211-16.30901 0-2.636 0.78101-5.27299 2.14801-7.90999l52.832-94.43301c3.027-5.274 8.59399-8.10599 14.06299-8.10599 5.371 0 10.83902 2.83199 13.96402 8.10599z m-23.92502 89.94101c0 5.469 4.589 9.86299 9.961 9.86299 5.371 0 9.863-4.39399 9.961-9.86299 0.097-5.371-4.493-9.86301-9.961-9.86301-5.372 0-9.961 4.49201-9.961 9.86301z m2.05002-61.03501l0.97699 35.84c0.098 3.906 3.02699 6.73801 6.93399 6.73801 3.906 0 6.738-2.83201 6.836-6.73801l0.97601-35.84c0.098-4.59-3.12502-7.91-7.81201-7.91-4.688 0-8.00798 3.32-7.91098 7.91z",
+                                  "fill": "#ffffffff",
+                                  "width": 13.572439193725586,
+                                  "height": 12.459012985229492,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.09828975796699524
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "Oobh1",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "精细化权限管控，分级访问，操作可追溯，安全可审计;",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "sX2fr",
+                  "name": "Frame 207",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "V3p3f",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "3iVjo",
+                          "x": 4.396484375,
+                          "y": 6.171875,
+                          "name": "scale.3d 1",
+                          "clip": true,
+                          "width": 44,
+                          "height": 39.887699127197266,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.16743215918540955
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "EXHm2",
+                              "x": 0.000030517578125,
+                              "y": 0.0005467340524774045,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "grSlC",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l262.793 0 0 238.23199-262.793 0 0-238.23199z",
+                                  "fill": "#000000ff",
+                                  "width": 44,
+                                  "height": 39.887699127197266,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.16743215918540955
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "ffmxV",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "geometry": "M33.6914 192.7l8.6914 14.84401 89.25821-44.82401 89.35499 44.82401 8.594-14.84401-89.258-44.726 0-105.7621-17.285 0 0 105.7621-89.3556 44.726z m-33.30078 18.653c0 4.492 1.95313 7.91 5.85938 10.253l25.8789 15.137c2.7344 1.66 4.8828 2.05099 8.5938-0.097l25-14.454c4.1015-2.246 4.9804-4.29599 4.8828-8.10499l-0.1953-29.88302c0-4.29699-1.8555-7.42199-5.6641-9.66799l-25.6836-15.234c-3.125-1.75799-5.6641-2.149-9.4727 0l-25.29292 14.648c-3.71094 2.05099-4.29688 4.29699-4.29688 7.42199l0.39062 29.98101z m191.79738 2.832c-0.098 3.808 0.78101 5.85899 4.78501 8.10499l25.097 14.45301c3.711 2.149 5.76199 1.75801 8.59399 0.098l25.78101-15.13701c4.004-2.34399 5.957-5.76199 5.957-10.25399l0.39099-29.98c0-3.125-0.586-5.371-4.297-7.422l-25.293-14.649c-3.808-2.14799-6.348-1.757-9.473 0l-25.78099 15.235c-3.711 2.246-5.66401 5.371-5.66401 9.668l-0.097 29.883z m-92.3833-152.9301l26.0743 14.6484c3.711 2.1485 7.42199 2.1485 11.13299 0l26.07401-14.6484c3.22301-1.8555 4.58999-3.711 4.58999-8.3008l0-28.9062c0-4.3946-1.36698-5.9571-4.19898-7.6172l-26.17202-14.74613c-3.907-2.24609-7.90999-2.24609-11.81699 0l-26.0739 14.74613c-2.7344 1.5625-4.2969 3.2226-4.2969 7.6172l0 28.9062c0 4.5898 1.5625 6.543 4.6875 8.3008z",
+                                  "fill": "#ffffffff",
+                                  "width": 44,
+                                  "height": 39.886104583740234,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.16743215918540955
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "PiV6l",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "混合架构灵活适配，支持私有化部署，满足企业合规要求;",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "eGND9",
+              "name": "Frame 211",
+              "width": 1020,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 72,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "j7SGO",
+                  "name": "Frame 206",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "9RcdM",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "4Zrv9",
+                          "x": 3.7578125,
+                          "y": 4.3134765625,
+                          "name": "lock.circle.dotted 1",
+                          "clip": true,
+                          "width": 44,
+                          "height": 43.81342315673828,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.1735590547323227
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "kcSny",
+                              "x": 0.0003814697265625,
+                              "y": 0.0006192468281369656,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "phNsI",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l253.51601 0 0 252.44099-253.51601 0 0-252.44099z",
+                                  "fill": "#000000ff",
+                                  "width": 44,
+                                  "height": 43.81342315673828,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.1735590547323227
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "J4DTO",
+                                  "x": 0,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "geometry": "M126.758 19.8242c5.46901 0 9.863-4.4922 9.863-9.96092 0-5.37109-4.39399-9.86328-9.863-9.86328-5.371 0-9.863 4.49219-9.863 9.86328 0 5.46872 4.492 9.96092 9.863 9.96092z m35.93701 5.8594c5.46899 0 9.864-4.4922 9.864-9.8633 0-5.4687-4.39501-9.96092-9.864-9.96092-5.371 0-9.86301 4.49222-9.86301 9.96092 0 5.3711 4.49201 9.8633 9.86301 9.8633z m32.61699 16.4062c5.37199 0 9.86399-4.3945 9.86399-9.8632 0-5.3711-4.492-9.8633-9.86399-9.8633-5.37101 0-9.86299 4.4922-9.86299 9.8633 0 5.4687 4.49198 9.8632 9.86299 9.8632z m25.78199 25.7813c5.37101 0 9.86301-4.4922 9.86301-9.8633 0-5.4687-4.492-9.9609-9.86301-9.9609-5.46899 0-9.96099 4.4922-9.96099 9.9609 0 5.3711 4.492 9.8633 9.96099 9.8633z m16.40601 32.2269c5.371 0 9.86301-4.49249 9.86301-9.9613 0-5.3711-4.49201-9.8633-9.86301-9.8633-5.371 0-9.86301 4.4922-9.86301 9.8633 0 5.4688 4.49201 9.9613 9.86301 9.9613z m6.15199 36.035c5.371 0 9.86402-4.49201 9.86402-9.961 0-5.37101-4.49302-9.863-9.86402-9.863-5.468 0-9.86299 4.49199-9.86299 9.863 0 5.46899 4.39499 9.961 9.86299 9.961z m-6.15199 36.035c5.371 0 9.86301-4.49201 9.86301-9.961 0-5.371-4.49201-9.86301-9.86301-9.86301-5.371 0-9.86301 4.49201-9.86301 9.86301 0 5.46899 4.49201 9.961 9.86301 9.961z m-16.40601 32.129c5.37101 0 9.86301-4.49199 9.86301-9.86299 0-5.469-4.492-9.864-9.86301-9.864-5.46899 0-9.96099 4.395-9.96099 9.864 0 5.371 4.492 9.86299 9.96099 9.86299z m-25.78199 25.781c5.37199 0 9.86399-4.492 9.86399-9.863 0-5.469-4.492-9.961-9.86399-9.961-5.37101 0-9.86299 4.492-9.86299 9.961 0 5.371 4.49198 9.863 9.86299 9.863z m-32.61699 16.40599c5.46899 0 9.864-4.49199 9.864-9.86299 0-5.46899-4.39501-9.863-9.864-9.863-5.371 0-9.86301 4.39401-9.86301 9.863 0 5.371 4.49201 9.86299 9.86301 9.86299z m-35.93701 5.86c5.46901 0 9.863-4.395 9.863-9.86399 0-5.37101-4.39399-9.863-9.863-9.863-5.371 0-9.863 4.49199-9.863 9.863 0 5.46899 4.492 9.86399 9.863 9.86399z m-35.9377-5.86c5.4688 0 9.8637-4.49199 9.8637-9.86299 0-5.46899-4.3949-9.863-9.8637-9.863-5.3711 0-9.8633 4.39401-9.8633 9.863 0 5.371 4.49219 9.86299 9.8633 9.86299z m-32.6172-16.40599c5.4688 0 9.961-4.492 9.961-9.863 0-5.469-4.4922-9.961-9.961-9.961-5.3711 0-9.8633 4.492-9.8633 9.961 0 5.371 4.4922 9.863 9.8633 9.863z m-25.6836-25.781c5.3711 0 9.8633-4.49199 9.8633-9.86299 0-5.469-4.4922-9.864-9.8633-9.864-5.4687 0-9.9609 4.395-9.9609 9.864 0 5.371 4.4922 9.86299 9.9609 9.86299z m-16.5039-32.129c5.4688 0 9.961-4.49201 9.961-9.961 0-5.371-4.4922-9.86301-9.961-9.86301-5.3711 0-9.86326 4.49201-9.86326 9.86301 0 5.46899 4.49216 9.961 9.86326 9.961z m-6.15232-36.035c5.46872 0 9.96092-4.49201 9.96092-9.961 0-5.37101-4.4922-9.863-9.96092-9.863-5.37109 0-9.86328 4.49199-9.86328 9.863 0 5.46899 4.49219 9.961 9.86328 9.961z m6.15232-36.035c5.4688 0 9.961-4.49249 9.961-9.9613 0-5.3711-4.4922-9.8633-9.961-9.8633-5.3711 0-9.86326 4.4922-9.86326 9.8633 0 5.4688 4.49216 9.9613 9.86326 9.9613z m16.5039-32.2269c5.3711 0 9.8633-4.4922 9.8633-9.8633 0-5.4687-4.4922-9.9609-9.8633-9.9609-5.4687 0-9.9609 4.4922-9.9609 9.9609 0 5.3711 4.4922 9.8633 9.9609 9.8633z m25.6836-25.7813c5.4688 0 9.961-4.3945 9.961-9.8632 0-5.3711-4.4922-9.8633-9.961-9.8633-5.3711 0-9.8633 4.4922-9.8633 9.8633 0 5.4687 4.4922 9.8632 9.8633 9.8632z m32.6172-16.4062c5.4688 0 9.8637-4.4922 9.8637-9.8633 0-5.4687-4.3949-9.96092-9.8637-9.96092-5.3711 0-9.8633 4.49222-9.8633 9.96092 0 5.3711 4.49219 9.8633 9.8633 9.8633z",
+                                  "fill": "#ffffffff",
+                                  "width": 44,
+                                  "height": 43.79658508300781,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.1735590547323227
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "8tyiN",
+                                  "x": 14.06777572631836,
+                                  "y": 10.050832115492085,
+                                  "name": "Vector",
+                                  "geometry": "M0 118.2618c0 9.66799 4.29689 14.06199 13.18359 14.06199l65.0387 0c8.887 0 13.18401-4.394 13.18401-14.06199l0-50.879c0-9.082-3.90599-13.57399-11.816-13.96499l0-15.72251c0-22.5586-13.672-37.6953-33.887-37.6953-20.215 0-33.8869 15.1367-33.8869 37.6953l0 15.72251c-7.9102 0.391-11.8164 4.88299-11.8164 13.96499l0 50.879z m23.53529-64.94199l0-16.69881c0-15.2343 8.88701-25.1953 22.16801-25.1953 13.281 0 22.16799 9.961 22.16799 25.1953l0 16.69881-44.336 0z",
+                                  "fill": "#ffffffff",
+                                  "width": 15.864391326904297,
+                                  "height": 22.965993881225586,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.1735590547323227
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "A0zvO",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "数据自主可控，企业完全掌握数据所有权与管理权;",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "tvyoN",
+                  "name": "Frame 207",
+                  "width": "fill_container",
+                  "height": 92,
+                  "fill": "#dfa600ff",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 25,
+                  "padding": [
+                    0,
+                    30
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "npXCB",
+                      "name": "Frame 205",
+                      "width": 52,
+                      "height": 52,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "gRU4i",
+                          "x": 7.999808311462402,
+                          "y": 3.999958038330078,
+                          "name": "lock.shield 1",
+                          "clip": true,
+                          "width": 35.08045959472656,
+                          "height": 44,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.17008709907531738
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "group",
+                              "id": "WB4Xz",
+                              "x": -0.000191461353097111,
+                              "y": 0,
+                              "name": "Group",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "cU4Zv",
+                                  "x": 0.000191461353097111,
+                                  "y": 0,
+                                  "name": "Vector",
+                                  "opacity": 0,
+                                  "geometry": "M0 0l206.25 0 0 258.69101-206.25 0 0-258.69101z",
+                                  "fill": "#000000ff",
+                                  "width": 35.08045959472656,
+                                  "height": 44,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.17008709907531738
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "aiC6X",
+                                  "x": 0,
+                                  "y": 1.129702091217041,
+                                  "name": "Vector",
+                                  "geometry": "M103.125 252.05038c2.246 0 5.469-0.87901 8.398-2.63601 70.997-40.528 94.727-56.543 94.727-100.782l0-96.09329c0-13.3789-5.27299-17.6758-16.504-22.3633-16.79699-6.7383-59.57001-22.4609-76.367-28.22265-3.32-1.17187-6.836-1.95313-10.254-1.95313-3.418 0-6.8359 0.97657-10.1562 1.95313-16.7969 5.27345-59.668 21.58205-76.4649 28.22265-11.23046 4.4922-16.5039 8.9844-16.5039 22.3633l0 96.09329c0 44.239 24.0234 59.864 94.7266 100.782 3.0273 1.757 6.2504 2.63601 8.3984 2.63601z m0-19.238c-2.051 0-4.2969-0.97602-7.5195-3.02701-58.3985-35.938-78.5157-46.38699-78.5157-84.864l0-89.06199c0-5.5664 1.0743-7.7148 5.3711-9.375 17.5782-7.0312 57.4219-20.8984 75-27.832 2.2461-0.8789 4.1991-1.3672 5.6641-1.3672 1.465 0 3.418 0.4883 5.664 1.3672 17.676 6.9336 57.129 21.4843 75.09799 27.832 4.19901 1.5625 5.27301 3.8086 5.27301 9.375l0 89.06199c0 38.47701-20.21501 48.731-78.515 84.864-3.223 2.05099-5.469 3.02701-7.52 3.02701z",
+                                  "fill": "#ffffffff",
+                                  "width": 35.08045959472656,
+                                  "height": 42.870513916015625,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.17008709907531738
+                                  }
+                                },
+                                {
+                                  "type": "path",
+                                  "id": "OpKt3",
+                                  "x": 9.783069383411203,
+                                  "y": 9.916168212890625,
+                                  "name": "Vector",
+                                  "geometry": "M0 118.1642c0 9.668 4.2969 14.062 13.1836 14.062l65.0389 0c8.887 0 13.086-4.394 13.086-14.062l0-50.78101c0-9.18-3.80801-13.57499-11.71901-13.96499l0-15.7229c0-22.6563-13.67099-37.6953-33.88599-37.6953-20.2152 0-33.8871 15.039-33.8871 37.6953l0 15.7229c-7.9101 0.39-11.8164 4.78499-11.8164 13.96499l0 50.78101z m23.4375-64.844l0-16.6991c0-15.2344 8.9844-25.293 22.266-25.293 13.281 0 22.168 10.0586 22.168 25.293l0 16.6991-44.434 0z",
+                                  "fill": "#ffffffff",
+                                  "width": 15.530396461486816,
+                                  "height": 22.48996925354004,
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": 0.17008709907531738
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "PlElE",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#fefefeff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "以安全架构为底座，全方位守护用户数据隐私与安全。",
+                      "lineHeight": 1.625,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 16,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.64
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

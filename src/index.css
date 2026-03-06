@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+
+:root {
+  /* Colors */
+  --primary-color: #007AFF;
+  --bg-color: #FFFFFF;
+  --text-primary: #333333;
+  --text-secondary: #666666;
+  --text-disabled: #999999;
+
+  /* Typography */
+  --font-family-base: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --font-family-special: 'ZCOOL KuaiLe', cursive;
+
+  /* H1 */
+  --h1-fs: 32px;
+  --h1-lh: 46px;
+  --h1-fw: 500;
+  /* Medium */
+
+  /* H2 */
+  --h2-fs: 22px;
+  --h2-lh: 32px;
+  --h2-fw: 600;
+  /* Semibold */
+
+  /* H3 */
+  --h3-fs: 13px;
+  --h3-lh: 18px;
+  --h3-fw: 500;
+  /* Medium */
+
+  /* Body 1 */
+  --b1-fs: 11px;
+  --b1-lh: 18px;
+  --b1-fw: 300;
+  /* Light */
+  --b1-ls: 0.04em;
+  /* 4% */
+
+  /* Body 2 */
+  --b2-fs: 10px;
+  --b2-lh: 14px;
+  --b2-fw: 300;
+  /* Light */
+  --b2-ls: 0.04em;
+  /* 4% */
+
+  /* Body 3 */
+  --b3-fs: 9px;
+  --b3-lh: 16px;
+  --b3-fw: 300;
+  /* Light */
+  --b3-ls: 0.04em;
+  /* 4% */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family-base);
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  /* The design puts layout at 1440 * 900 */
+  width: 100%;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: var(--h1-fs);
+  line-height: var(--h1-lh);
+  font-weight: var(--h1-fw);
+}
+
+h2 {
+  font-size: var(--h2-fs);
+  line-height: var(--h2-lh);
+  font-weight: var(--h2-fw);
+}
+
+h3 {
+  font-size: var(--h3-fs);
+  line-height: var(--h3-lh);
+  font-weight: var(--h3-fw);
+}
+
+.body1 {
+  font-size: var(--b1-fs);
+  line-height: var(--b1-lh);
+  font-weight: var(--b1-fw);
+  letter-spacing: var(--b1-ls);
+}
+
+.body2 {
+  font-size: var(--b2-fs);
+  line-height: var(--b2-lh);
+  font-weight: var(--b2-fw);
+  letter-spacing: var(--b2-ls);
+}
+
+.body3 {
+  font-size: var(--b3-fs);
+  line-height: var(--b3-lh);
+  font-weight: var(--b3-fw);
+  letter-spacing: var(--b3-ls);
+}
+
+.special-font {
+  font-family: var(--font-family-special);
+}
+
+.app-container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  position: relative;
+  background-color: var(--bg-color);
+  overflow-x: hidden;
+}

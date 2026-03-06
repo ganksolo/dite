@@ -1,0 +1,297 @@
+.section9-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #F9F9F9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 68px 93px;
+    box-sizing: border-box;
+    gap: 40px;
+}
+
+/* ─── Centered Header ─── */
+.s9-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    width: 412px;
+    text-align: center;
+}
+
+.s9-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.s9-brand-text {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    color: #333333;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
+
+.s9-tagline {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: #333333;
+    letter-spacing: 2.56px;
+    line-height: 1.375;
+    margin: 0;
+}
+
+.s9-desc {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #333333;
+    letter-spacing: 0.44px;
+    line-height: 1.636;
+    margin: 0;
+}
+
+/* ─── Cards Row ─── */
+.s9-cards-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 107px;
+    width: 100%;
+    max-width: 1280px;
+    align-items: stretch;
+}
+
+/* ─── Individual Card ─── */
+.s9-card {
+    flex: 1;
+    background-color: #FFFFFF;
+    border-radius: 18px;
+    padding: 40px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 56px;
+}
+
+.s9-card-inner {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+/* Title row */
+.s9-card-title-row {
+    padding-bottom: 0;
+}
+
+.s9-card-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #333333;
+    letter-spacing: 0.72px;
+    line-height: 1.333;
+    margin: 0;
+}
+
+/* ─── Device Mockup (placeholder) ─── */
+.s9-mockup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+}
+
+.s9-mockup-screen {
+    width: 180px;
+    height: 110px;
+    background-color: #1a1a2e;
+    border-radius: 6px;
+    border: 1.5px solid #e0e0e0;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.s9-mockup-inner {
+    display: flex;
+    height: 100%;
+}
+
+.s9-mockup-sidebar {
+    width: 36px;
+    height: 100%;
+    background-color: #16213e;
+    border-right: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.s9-mockup-content {
+    flex: 1;
+    padding: 10px 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.s9-mockup-bar {
+    height: 8px;
+    background-color: rgba(255, 255, 255, 0.12);
+    border-radius: 4px;
+}
+
+.s9-mockup-bar--short {
+    width: 60%;
+}
+
+/* ─── Deployment row (label + icons) ─── */
+.s9-section-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 8px;
+    border-bottom: 0.5px solid #DEDEDE;
+}
+
+.s9-label {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 0.4px;
+}
+
+.s9-devices {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* ─── Feature blocks ─── */
+.s9-feature-block {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.s9-feature-label {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 0.4px;
+    padding-bottom: 8px;
+    border-bottom: 0.5px solid #DEDEDE;
+}
+
+.s9-feature-cols {
+    display: flex;
+    gap: 20px;
+}
+
+.s9-feature-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    flex: 1;
+}
+
+.s9-feature-list li {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 9px;
+    font-weight: 300;
+    color: #666666;
+    letter-spacing: 0.36px;
+    line-height: 1.778;
+    padding-left: 10px;
+    position: relative;
+}
+
+.s9-feature-list li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #666666;
+}
+
+/* ─── Pricing block ─── */
+.s9-pricing-block {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.s9-price-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.s9-price-tier {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    color: #333333;
+    letter-spacing: 0.4px;
+    line-height: 1.2;
+}
+
+.s9-price-value {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 0.4px;
+    line-height: 1.2;
+}
+
+/* ─── CTA Section ─── */
+.s9-card-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+}
+
+.s9-buy-btn {
+    background-color: #0079FE;
+    color: #FEFEFE;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 50px;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    width: fit-content;
+}
+
+.s9-buy-btn:hover {
+    background-color: #0062cc;
+}
+
+.s9-learn-more {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    color: #333333;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: 0.4px;
+    transition: opacity 0.2s ease;
+}
+
+.s9-learn-more:hover {
+    opacity: 0.7;
+}

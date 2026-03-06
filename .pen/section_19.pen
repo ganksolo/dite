@@ -1,0 +1,1212 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "cpMNb",
+      "x": -575.8333390620028,
+      "y": -847.9999991059303,
+      "name": "Section 34",
+      "width": 1440,
+      "fill": "#ffffffff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 52,
+      "padding": [
+        68,
+        210
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "iShg2",
+          "name": "Frame 271",
+          "width": "fill_container",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 120,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "6y4q6",
+              "name": "Frame 270",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 52,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "2X3nx",
+                  "name": "Frame 269",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "wzOoi",
+                      "name": "Frame 118",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": {
+                          "bottom": 0.5
+                        },
+                        "fill": {
+                          "type": "color",
+                          "color": "#dededeff",
+                          "enabled": false
+                        }
+                      },
+                      "gap": 524,
+                      "padding": [
+                        0,
+                        0,
+                        14,
+                        0
+                      ],
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "mOgor",
+                          "name": "合作品牌",
+                          "fill": "#363636ff",
+                          "textGrowth": "fixed-width",
+                          "width": 89,
+                          "content": "服务门店",
+                          "lineHeight": 1.4545454545454546,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 22,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "ELtl7",
+                      "name": "Frame 125",
+                      "width": "fill_container",
+                      "height": 37,
+                      "fill": "#ffffffff",
+                      "cornerRadius": 100,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.5,
+                        "fill": "#424242ff"
+                      },
+                      "gap": 10,
+                      "padding": [
+                        11,
+                        36
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "VHIMg",
+                          "name": "英国纺织品牌Scabal于193",
+                          "fill": "#999999ff",
+                          "content": "MÉDITE 需要你的许可来启用桌面通知，以便在有新文章发布时向你推送通知。",
+                          "lineHeight": 1.6666666666666667,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 9,
+                          "fontWeight": "normal",
+                          "letterSpacing": 0.36
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "wwnlq",
+                  "name": "Frame 110",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 58,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "npit4",
+                      "name": "Frame 111",
+                      "width": 288,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "Bxyjk",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 36,
+                          "fill": "#ffffffff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "HoYE7",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "新闻",
+                              "textAlign": "center",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 14,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.56
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "eoyT4",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "Tqdjg",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 50,
+                          "fill": "#ffffffff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "ZB2bN",
+                              "name": "主题活动",
+                              "fill": "#666666ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 的最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "lineHeight": 1.6,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "ZJeZv",
+                      "name": "Frame 114",
+                      "width": 288,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "6kSRn",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 36,
+                          "fill": "#ffffffff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "GBJzU",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "合作",
+                              "textAlign": "center",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 14,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.56
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "QghQF",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "MWUAG",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 50,
+                          "fill": "#ffffffff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "XqphE",
+                              "name": "主题活动",
+                              "fill": "#666666ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "MÉDITE 致力于搭建以 SaaS 为基础平台的开放式产业生态，从而与客户一起探索更多业务维度与可能性。",
+                              "lineHeight": 1.6,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "wkcYC",
+                      "name": "Frame 113",
+                      "width": 288,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "UjCk3",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 36,
+                          "fill": "#ffffffff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "0MQ0d",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "研发",
+                              "textAlign": "center",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 14,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.56
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "49yv2",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "PR7eA",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 50,
+                          "fill": "#ffffffff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "OVVLZ",
+                              "name": "主题活动",
+                              "fill": "#666666ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "MÉDITE 不断与全球顶尖设计团队合作，将最新的技术与纺织原料相融合，并提供给市场与消费者。",
+                              "lineHeight": 1.6,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "0PNcB",
+              "name": "Frame 136",
+              "width": 792,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 28,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "KPhCw",
+                  "name": "Frame 134",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 72,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "AV5q1",
+                      "name": "Frame 127",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "hBgp6",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "RBa5g",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "kM5e7",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "74DPX",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "TyhxT",
+                      "name": "Frame 128",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "LfddG",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "WAx1r",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "4ACyy",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "pmstW",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "zV8bs",
+                  "name": "Frame 135",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 72,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "MKEFY",
+                      "name": "Frame 127",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "rjsCr",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "0ObDK",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "QXqKT",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "qW02a",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "ZdNJf",
+                      "name": "Frame 128",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "HNhXR",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "fCz2a",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "eeMQA",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "k7Jhw",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "qIdsw",
+                  "name": "Frame 136",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 72,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "qHZzV",
+                      "name": "Frame 127",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "tPetg",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "57ULf",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "ontzB",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "j1rkh",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "gQw7c",
+                      "name": "Frame 128",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "FP772",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "9CaYk",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "U544P",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "upWgV",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "C7gim",
+                  "name": "Frame 137",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 72,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "9Ktbb",
+                      "name": "Frame 127",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "iWIk8",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "aggJV",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "1PXQ5",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "Jwzv0",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Nc84h",
+                      "name": "Frame 128",
+                      "clip": true,
+                      "cornerRadius": 13,
+                      "stroke": {
+                        "align": "outside",
+                        "thickness": 0.5,
+                        "fill": "#c8c8c8ff"
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "rz5uY",
+                          "name": "Frame 1",
+                          "width": 360,
+                          "height": 144,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "86JYx",
+                          "name": "Groups",
+                          "width": "fill_container",
+                          "height": 80,
+                          "fill": "#00000000",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": [
+                            0,
+                            8
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "eQOhU",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "content": "2024年11月14日",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.4
+                            },
+                            {
+                              "type": "text",
+                              "id": "EaL80",
+                              "name": "主题活动",
+                              "fill": "#333333ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "持续关注 MÉDITE 最新新闻资讯，或许能找到和我一起天马行空的可能。",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "300",
+                              "letterSpacing": 0.4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "YgDU0",
+          "name": "Frame 72",
+          "width": 120,
+          "height": 22,
+          "cornerRadius": 100,
+          "stroke": {
+            "align": "inside",
+            "thickness": 0.5,
+            "fill": "#424242ff"
+          },
+          "gap": 10,
+          "padding": [
+            10,
+            0
+          ],
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "CI1M6",
+              "name": "购买",
+              "fill": "#333333ff",
+              "content": "翻阅历史资讯",
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "PingFang SC",
+              "fontSize": 10,
+              "fontWeight": "normal",
+              "letterSpacing": 0.4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

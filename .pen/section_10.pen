@@ -1,0 +1,218 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "nGG0d",
+      "x": -600.8333380685908,
+      "y": -426.4999995032945,
+      "name": "Section 25",
+      "width": 1440,
+      "height": 828,
+      "fill": "#fefefeff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 64,
+      "padding": [
+        68,
+        277
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "K3Dmt",
+          "name": "Frame 244",
+          "width": 408,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 52,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "iYg3X",
+              "name": "Frame 243",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 16,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "rPVxN",
+                  "name": "MÉDITE Ai",
+                  "fill": "#353535ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "MÉDITE Ai",
+                  "textAlign": "center",
+                  "textAlignVertical": "middle",
+                  "fontFamily": "Helvetica Neue",
+                  "fontSize": 18,
+                  "fontWeight": "700",
+                  "letterSpacing": 0.36
+                },
+                {
+                  "type": "frame",
+                  "id": "E7T3v",
+                  "name": "Frame 242",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "FqYhv",
+                      "name": "「标准化」与「个性化」完美融合。",
+                      "fill": "#353535ff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "一句话，包会的。",
+                      "lineHeight": 1.375,
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 32,
+                      "fontWeight": "500",
+                      "letterSpacing": 2.56
+                    },
+                    {
+                      "type": "text",
+                      "id": "lzTTx",
+                      "name": "MÉDITE销售团队与产品团队相",
+                      "fill": "#353535ff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "用 Ai，让供应链具备服务个人的能力。\n专为个人用户推出的时尚应用，兼具私人裁缝和着装顾问等多维度 Ai 服务功能。",
+                      "lineHeight": 1.6363636363636365,
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 11,
+                      "fontWeight": "300",
+                      "letterSpacing": 0.44
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zs6KK",
+              "name": "Frame 202",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 81,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "fMCnk",
+                  "name": "Frame 73",
+                  "width": 120,
+                  "height": 22,
+                  "fill": "#0079feff",
+                  "cornerRadius": 100,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "padding": [
+                    10,
+                    50
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "dg8Nn",
+                      "name": "购买",
+                      "fill": "#fefefeff",
+                      "content": "获取微信小程序",
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "5D1aY",
+                  "name": "Frame 72",
+                  "width": 120,
+                  "height": 22,
+                  "fill": "#0079feff",
+                  "cornerRadius": 100,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "padding": [
+                    10,
+                    50
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "sAqZY",
+                      "name": "购买",
+                      "fill": "#fefefeff",
+                      "content": "获取免费App",
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "rectangle",
+          "id": "0jnTn",
+          "name": "image 72",
+          "fill": {
+            "type": "image",
+            "enabled": true,
+            "url": "",
+            "mode": "fill"
+          },
+          "width": 885.6216430664062,
+          "height": 424,
+          "stroke": {
+            "align": "inside",
+            "thickness": 0.4324324429035187
+          }
+        }
+      ]
+    }
+  ]
+}

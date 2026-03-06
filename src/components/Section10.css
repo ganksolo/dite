@@ -1,0 +1,401 @@
+.section10-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #FEFEFE;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 68px 277px;
+    box-sizing: border-box;
+    gap: 64px;
+    min-height: 828px;
+}
+
+/* ─── Centered Header Block ─── */
+.s10-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 52px;
+    width: 408px;
+}
+
+.s10-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    width: 100%;
+}
+
+.s10-brand {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #353535;
+    letter-spacing: 0.36px;
+    text-align: center;
+}
+
+.s10-text-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+}
+
+.s10-tagline {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: #353535;
+    letter-spacing: 2.56px;
+    line-height: 1.375;
+    text-align: center;
+    margin: 0;
+}
+
+.s10-desc {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #353535;
+    letter-spacing: 0.44px;
+    line-height: 1.636;
+    text-align: center;
+    margin: 0;
+}
+
+/* ─── CTA Buttons ─── */
+.s10-cta-row {
+    display: flex;
+    align-items: center;
+    gap: 81px;
+}
+
+.s10-btn {
+    background-color: #0079FE;
+    color: #FEFEFE;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 30px;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background-color 0.2s ease;
+    width: 120px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.s10-btn:hover {
+    background-color: #0062cc;
+}
+
+/* ─── Phone Mockup Fan Area ─── */
+.s10-mockup-area {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 424px;
+    position: relative;
+}
+
+.s10-phones {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+/* ─── Phone Base ─── */
+.s10-phone {
+    position: absolute;
+    bottom: 0;
+    border-radius: 28px;
+    overflow: hidden;
+    background-color: #111111;
+    border: 2.5px solid #222222;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+}
+
+.s10-phone-screen {
+    background-color: #f5f5f5;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.s10-phone-screen--center {
+    background-color: #FFFFFF;
+}
+
+.s10-phone-notch {
+    width: 80px;
+    height: 22px;
+    background-color: #111111;
+    border-radius: 0 0 14px 14px;
+    margin: 0 auto;
+    flex-shrink: 0;
+}
+
+.s10-phone-notch--wide {
+    width: 100px;
+}
+
+/* Center phone - front and center */
+.s10-phone--center {
+    width: 200px;
+    height: 400px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.35);
+}
+
+/* Left adjacent phone */
+.s10-phone--left {
+    width: 160px;
+    height: 330px;
+    left: calc(50% - 166px);
+    transform: rotate(-12deg);
+    transform-origin: bottom center;
+    z-index: 4;
+}
+
+/* Right adjacent phone */
+.s10-phone--right {
+    width: 160px;
+    height: 330px;
+    right: calc(50% - 166px);
+    transform: rotate(12deg);
+    transform-origin: bottom center;
+    z-index: 4;
+}
+
+/* Far left phone */
+.s10-phone--far-left {
+    width: 140px;
+    height: 290px;
+    left: calc(50% - 310px);
+    transform: rotate(-24deg);
+    transform-origin: bottom center;
+    z-index: 3;
+}
+
+/* Far right phone */
+.s10-phone--far-right {
+    width: 140px;
+    height: 290px;
+    right: calc(50% - 310px);
+    transform: rotate(24deg);
+    transform-origin: bottom center;
+    z-index: 3;
+}
+
+/* ─── Phone UI elements ─── */
+.s10-phone-ui {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.s10-ui-bar {
+    height: 28px;
+    background-color: #e8e8e8;
+    flex-shrink: 0;
+}
+
+.s10-ui-bar--dark {
+    background-color: #1c2536;
+}
+
+.s10-ui-content {
+    flex: 1;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    overflow: hidden;
+}
+
+.s10-ui-row {
+    height: 10px;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+}
+
+.s10-ui-row--short {
+    width: 60%;
+}
+
+.s10-ui-row--blue {
+    background-color: #0079FE;
+}
+
+/* Avatar list for customer management UI */
+.s10-ui-avatar-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.s10-avatar-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    height: 28px;
+    padding: 4px 6px;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.06);
+}
+
+.s10-avatar-row::before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #4a5568;
+    flex-shrink: 0;
+}
+
+.s10-avatar-row--selected {
+    background-color: rgba(0, 121, 254, 0.2);
+}
+
+/* Grid area for order tracking */
+.s10-grid-area {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px;
+}
+
+.s10-grid-cell {
+    height: 44px;
+    background-color: #1c2536;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.s10-grid-cell--dark {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: linear-gradient(135deg, #2a3160 0%, #1a2040 100%);
+}
+
+.s10-grid-cell--accent {
+    grid-column: span 2;
+    height: 32px;
+    background-color: #0079FE;
+    font-size: 18px;
+}
+
+/* List rows for rightmost phone */
+.s10-list-rows {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.s10-list-row {
+    height: 20px;
+    background-color: #e8e8e8;
+    border-radius: 4px;
+}
+
+.s10-list-row--blue {
+    background-color: rgba(0, 121, 254, 0.25);
+    height: 32px;
+}
+
+/* ─── Center phone UI ─── */
+.s10-phone-ui--center {
+    padding: 0;
+}
+
+.s10-center-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 14px;
+    border-bottom: 0.5px solid #EEEEEE;
+    flex-shrink: 0;
+}
+
+.s10-center-cancel,
+.s10-center-add {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 9px;
+    color: #0079FE;
+}
+
+.s10-center-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.s10-center-card {
+    margin: 10px 14px 6px;
+    height: 50px;
+    background: linear-gradient(135deg, #0f1a3d 0%, #1a2d6b 100%);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.s10-center-brand-block {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}
+
+.s10-center-store {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 7px;
+    color: #666666;
+    padding: 0 14px;
+    flex-shrink: 0;
+    margin-bottom: 6px;
+}
+
+.s10-center-rows {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 0 14px;
+    overflow: hidden;
+}
+
+.s10-cal-row {
+    height: 18px;
+    background-color: #F5F5F5;
+    border-radius: 4px;
+}
+
+.s10-cal-row--selected {
+    background-color: #0079FE;
+}

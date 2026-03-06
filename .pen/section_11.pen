@@ -1,0 +1,719 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "1gjPQ",
+      "x": -720,
+      "y": -414,
+      "name": "Section 26",
+      "width": 1440,
+      "height": 828,
+      "fill": "#fefefeff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 62,
+      "padding": [
+        68,
+        106
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "ESv1a",
+          "name": "Frame 246",
+          "width": 738,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "FMc7o",
+              "name": "Frame 245",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 16,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "GEFRd",
+                  "name": "MÉDITE Ai",
+                  "fill": "#353535ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "MÉDITE Ai",
+                  "lineHeight": 1,
+                  "textAlign": "center",
+                  "textAlignVertical": "middle",
+                  "fontFamily": "Helvetica Neue",
+                  "fontSize": 18,
+                  "fontWeight": "700",
+                  "letterSpacing": 0.36
+                },
+                {
+                  "type": "text",
+                  "id": "2n4TW",
+                  "name": "「标准化」与「个性化」完美融合。",
+                  "fill": "#353535ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "赋能产业，「产地销」与「销地产」能力兼备。",
+                  "lineHeight": 1.375,
+                  "textAlignVertical": "middle",
+                  "fontFamily": "PingFang SC",
+                  "fontSize": 32,
+                  "fontWeight": "500",
+                  "letterSpacing": 2.56
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "0WXi4",
+              "name": "MÉDITE销售团队与产品团队相",
+              "fill": "#353535ff",
+              "content": "摆脱供应链地域化对传统制造企业及品牌业务的制约，\n使企业同时获得发展早期和后期所需的供应链快速组织及协同生产能力。",
+              "lineHeight": 1.6363636363636365,
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "PingFang SC",
+              "fontSize": 11,
+              "fontWeight": "300",
+              "letterSpacing": 0.44
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "sL9sK",
+          "name": "Frame 248",
+          "width": 1120,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 42,
+          "children": [
+            {
+              "type": "frame",
+              "id": "Cr8ce",
+              "name": "Frame 247",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 42,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "CzqFJ",
+                  "name": "Frame 80",
+                  "clip": true,
+                  "width": 539,
+                  "height": 318,
+                  "fill": "#1e1e1eff",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "id": "itxwG",
+                      "x": 0,
+                      "y": -34,
+                      "name": "Inside-a-Moroccan-Factory-That-Supplies-Denim-Products-to-Inditex 1",
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "",
+                        "mode": "fill"
+                      },
+                      "width": 577,
+                      "height": 385,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    },
+                    {
+                      "type": "rectangle",
+                      "id": "usRQa",
+                      "x": 0,
+                      "y": 0,
+                      "name": "Rectangle 2",
+                      "fill": "#00000080",
+                      "width": 577,
+                      "height": 318,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "DdFpA",
+                      "x": 246,
+                      "y": 134.73046875,
+                      "name": "play.circle 2 2",
+                      "clip": true,
+                      "width": 48,
+                      "height": 48,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.1886829435825348
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "group",
+                          "id": "BOZrt",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Group",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "O6KWL",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l254.395 0 0 254.59-254.395 0 0-254.59z",
+                              "fill": "#000000ff",
+                              "width": 48,
+                              "height": 48,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.1886829435825348
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "KzZUs",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "geometry": "M127.148 254.395c70.21501 0 127.247-56.934 127.247-127.149 0-70.2148-57.03199-127.246-127.247-127.246-70.2144 0-127.148 57.0312-127.148 127.246 0 70.215 56.9336 127.149 127.148 127.149z m0-18.165c-60.2535 0-108.9839-48.73-108.9839-108.984 0-60.2538 48.7304-108.9843 108.9839-108.9843 60.25401 0 108.985 48.7305 108.985 108.9843 0 60.254-48.73099 108.984-108.985 108.984z",
+                              "fill": "#ffffffff",
+                              "width": 48,
+                              "height": 47.963233947753906,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.1886829435825348
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "Snndx",
+                              "x": 17.26521873474121,
+                              "y": 14.46457576751709,
+                              "name": "Vector",
+                              "geometry": "M11.8161 99.74678l71.87501-42.67599c5.078-3.027 4.981-9.863 0-12.891l-71.87501-42.87071c-5.0778-3.0273-11.8161-0.5859-11.8161 5.0782l0 88.3785c0 5.664 6.3477 8.301 11.8161 4.981z",
+                              "fill": "#ffffffff",
+                              "width": 16.502836227416992,
+                              "height": 19.08112907409668,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.1886829435825348
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "L04kO",
+                  "name": "Frame 81",
+                  "clip": true,
+                  "width": 539,
+                  "height": 318,
+                  "fill": "#1e1e1eff",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "id": "Pj58Y",
+                      "x": 0,
+                      "y": -129,
+                      "name": "IMG_6545 1",
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "",
+                        "mode": "fill"
+                      },
+                      "width": 578,
+                      "height": 578,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    },
+                    {
+                      "type": "rectangle",
+                      "id": "ISFHe",
+                      "x": -38,
+                      "y": 0,
+                      "name": "Rectangle 2",
+                      "fill": "#00000080",
+                      "width": 577,
+                      "height": 318,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "pMppQ",
+                      "x": 246,
+                      "y": 134.73046875,
+                      "name": "play.circle 2 2",
+                      "clip": true,
+                      "width": 48,
+                      "height": 48,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.1886829435825348
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "group",
+                          "id": "5UShJ",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Group",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "QEu8G",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l254.395 0 0 254.59-254.395 0 0-254.59z",
+                              "fill": "#000000ff",
+                              "width": 48,
+                              "height": 48,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.1886829435825348
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "4wEs9",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "geometry": "M127.148 254.395c70.21501 0 127.247-56.934 127.247-127.149 0-70.2148-57.03199-127.246-127.247-127.246-70.2144 0-127.148 57.0312-127.148 127.246 0 70.215 56.9336 127.149 127.148 127.149z m0-18.165c-60.2535 0-108.9839-48.73-108.9839-108.984 0-60.2538 48.7304-108.9843 108.9839-108.9843 60.25401 0 108.985 48.7305 108.985 108.9843 0 60.254-48.73099 108.984-108.985 108.984z",
+                              "fill": "#ffffffff",
+                              "width": 48,
+                              "height": 47.963233947753906,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.1886829435825348
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "03dHj",
+                              "x": 17.26521873474121,
+                              "y": 14.46457576751709,
+                              "name": "Vector",
+                              "geometry": "M11.8161 99.74678l71.87501-42.67599c5.078-3.027 4.981-9.863 0-12.891l-71.87501-42.87071c-5.0778-3.0273-11.8161-0.5859-11.8161 5.0782l0 88.3785c0 5.664 6.3477 8.301 11.8161 4.981z",
+                              "fill": "#ffffffff",
+                              "width": 16.502836227416992,
+                              "height": 19.08112907409668,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.1886829435825348
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "1O6ZS",
+              "name": "Frame 82",
+              "clip": true,
+              "width": "fill_container",
+              "height": 144,
+              "fill": "#1e1e1eff",
+              "cornerRadius": 16,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "rectangle",
+                  "id": "7Se2z",
+                  "x": -268,
+                  "y": -473.26953125,
+                  "name": "032d8859e844941678855c0acd80e5b4 1",
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "",
+                    "mode": "fill"
+                  },
+                  "width": 1767,
+                  "height": 1098,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  }
+                },
+                {
+                  "type": "rectangle",
+                  "id": "hc3i0",
+                  "x": 0,
+                  "y": 0,
+                  "name": "Rectangle 3",
+                  "fill": "#414856bf",
+                  "width": 1228,
+                  "height": 144,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  }
+                },
+                {
+                  "type": "frame",
+                  "id": "dDglP",
+                  "x": 493,
+                  "y": 88,
+                  "name": "Frame 87",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 48,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "KXpsI",
+                      "name": "Frame 83",
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "fill": {
+                        "type": "color",
+                        "color": "#fefefeff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.8888888955116272
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "ftyfP",
+                          "x": 0,
+                          "y": 1,
+                          "name": "Frame 114",
+                          "width": 16,
+                          "height": 13.568259239196777,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1.2600234746932983
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "Q0gWA",
+                              "x": 2.55108380317688,
+                              "y": -0.00009758358646649867,
+                              "name": "Vector",
+                              "geometry": "M253.80891 127.2458c0 70.215-57.03102 127.14899-127.24601 127.14899-18.372 0-35.834-3.89801-51.56099-10.992 11.671-13.721 18.74899-31.41098 18.74899-50.53199 0-6.488-0.79999-12.80001-2.392-18.81001 10.501-2.796 22.353-4.43199 35.204-4.43199 38.97799 0 68.68998 14.994 80.76399 30.659 17.57899-19.24201 28.22101-44.88399 28.22101-73.042 0-60.2536-48.73101-108.9841-108.985-108.9841-55.876 0-101.8417 41.9063-108.1539 96.07109-1.1013-0.148-2.2326-0.173-3.3692-0.173-5.1405 0-10.173 0.505-15.0398 1.498 5.7996-64.804 60.2599-115.65779 126.5629-115.65779 70.21499 0 127.24601 57.0312 127.24601 127.2458z m-84.17901-26.562c0 26.953-18.84801 47.656-43.067 47.46099-24.21801-0.196-42.968-20.50799-43.066-47.46099-0.098-25.3908 19.04299-46.4846 43.066-46.4846 24.024 0 43.067 21.0938 43.067 46.4846z",
+                              "fill": "#ffffffff",
+                              "width": 13.448883056640625,
+                              "height": 13.479928016662598,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.05298822000622749
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "UydGe",
+                              "x": -0.000032901763916015625,
+                              "y": 6.872198104858398,
+                              "name": "Vector",
+                              "geometry": "M126.36771 63.18301c0 34.571-28.90701 63.18399-63.18411 63.18399-34.5703 0-63.1836-28.41799-63.1836-63.18399 0-34.57 28.6133-63.18301 63.1836-63.18301 34.6681 0 63.18411 28.51501 63.18411 63.18301z m-73.34031 30.95701c0 5.078 4.0039 9.17999 9.08201 9.17999 5.0781 0 9.08209-4.10199 9.17969-9.17999 0-4.882-4.0039-9.082-9.17969-9.08201-4.9805 0-9.082 4.102-9.082 9.08201z m-13.9649-55.85901c0 3.613 2.4414 6.05501 5.9571 6.055 3.4179 0 5.0781-2.344 7.2265-4.688 2.7344-2.93 6.6407-5.76201 12.5977-5.76201 6.9336 0 11.5234 3.71101 11.5234 9.18001 0 6.055-4.1992 8.789-10.9375 13.379-5.8593 4.102-9.7656 8.008-9.7656 15.42999 0 0.097 0 0.29301 0 0.48801 0 4.004 2.44141 6.34801 6.44531 6.348 4.1992 0 6.24999-2.14901 6.64059-5.76201 0.4883-5.078 2.8321-7.422 8.3985-11.621 7.2265-5.274 12.8902-9.375 12.8902-18.946 0-11.621-9.8629-20.507-25.1949-20.507-13.3789 0-25.7813 7.324-25.7813 16.40601z",
+                              "fill": "#ffffffff",
+                              "width": 6.695999622344971,
+                              "height": 6.695962905883789,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.05298822000622749
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "path",
+                      "id": "9uFaq",
+                      "name": "Vector 2",
+                      "geometry": "M0 0l0 26",
+                      "width": 0,
+                      "height": 26,
+                      "stroke": {
+                        "align": "center",
+                        "thickness": 0.5,
+                        "fill": "#ffffffff"
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "919ZZ",
+                      "name": "Frame 84",
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "fill": {
+                        "type": "color",
+                        "color": "#fefefeff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.8888888955116272
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "ciUer",
+                          "x": 0,
+                          "y": 2,
+                          "name": "envelope 2 2",
+                          "clip": true,
+                          "width": 16,
+                          "height": 11.390815734863281,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.05309141427278519
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "gkhY5",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l301.367 0 0 214.55099-301.367 0 0-214.55099z",
+                              "fill": "#000000ff",
+                              "width": 16,
+                              "height": 11.390815734863281,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.05309141427278519
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "8w8jO",
+                              "x": 0,
+                              "y": 0.005101966671645641,
+                              "name": "Vector",
+                              "geometry": "M37.9883 214.45334l228.32069 0c22.168 0 35.05801-12.793 35.05801-37.696l0-139.15969c0-24.9023-12.988-37.59764-38.08599-37.59765l-228.22241 0c-22.168 0-35.0586 12.69534-35.0586 37.59765l0 139.15969c0 24.903 12.9883 37.696 37.9883 37.696z m-0.3906-16.504c-13.4766 0-21.0938-7.422-21.0938-21.289l0-139.06269c0-13.6719 7.6172-21.0937 21.0938-21.09371l226.17229 0c13.47601 0 20.996 7.4218 20.996 21.1914l0 139.062c0 13.77-7.51999 21.192-20.996 21.192l-226.17229 0z m112.9883-58.985c7.81199 0 15.13699-2.92899 22.168-9.27699l118.84799-106.93341-11.32898-11.3282-117.18701 105.4686c-4.10201 3.711-8.203 5.469-12.5 5.469-4.297 0-8.301-1.758-12.40199-5.469l-117.28561-105.4686-11.32809 11.3282 118.9457 106.93341c7.031 6.348 14.25698 9.27699 22.06999 9.27699z m-127.7344 60.84l90.9184-90.918-11.329-11.2301-90.9176 90.72311 11.3282 11.42499z m255.76141 0.098l11.23098-11.42599-90.918-90.82011-11.32798 11.2301 91.015 91.016z",
+                              "fill": "#ffffffff",
+                              "width": 16,
+                              "height": 11.38563060760498,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.05309141427278519
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "path",
+                      "id": "Kv2I4",
+                      "name": "Vector 1",
+                      "geometry": "M0 0l0 26",
+                      "width": 0,
+                      "height": 26,
+                      "stroke": {
+                        "align": "center",
+                        "thickness": 0.5,
+                        "fill": "#ffffffff"
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "7THQI",
+                      "name": "Frame 85",
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "fill": {
+                        "type": "color",
+                        "color": "#fefefeff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.8888888955116272
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "rLbOM",
+                          "x": 0,
+                          "y": 0,
+                          "name": "phone.circle 2 2",
+                          "clip": true,
+                          "width": 16,
+                          "height": 16.012264251708984,
+                          "fill": {
+                            "type": "color",
+                            "color": "#ffffffff",
+                            "enabled": false
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.0628943219780922
+                          },
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "zzR1n",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l254.395 0 0 254.59-254.395 0 0-254.59z",
+                              "fill": "#000000ff",
+                              "width": 16,
+                              "height": 16.012264251708984,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.0628943219780922
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "1mHol",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "geometry": "M127.148 254.395c70.21501 0 127.247-56.934 127.247-127.149 0-70.2148-57.03199-127.246-127.247-127.246-70.2144 0-127.148 57.0312-127.148 127.246 0 70.215 56.9336 127.149 127.148 127.149z m0-18.165c-60.2535 0-108.9839-48.73-108.9839-108.984 0-60.2538 48.7304-108.9843 108.9839-108.9843 60.25401 0 108.985 48.7305 108.985 108.9843 0 60.254-48.73099 108.984-108.985 108.984z",
+                              "fill": "#ffffffff",
+                              "width": 16,
+                              "height": 16,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.0628943219780922
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "NGn3j",
+                              "x": 3.88175106048584,
+                              "y": 3.887704372406006,
+                              "name": "Vector",
+                              "geometry": "M35.9374 94.4336c20.6058 20.605 45.31281 36.328 65.1368 36.328 9.375 0 17.383-3.71099 22.754-9.66799 5.176-5.76201 6.836-9.96101 6.836-13.86701 0-2.832-1.85599-5.56599-6.44499-8.88699l-17.09-12.207c-4.297-3.125-6.153-3.61301-8.692-3.61301-2.148 0-4.004 0.39099-7.617 2.44099l-11.23 6.153c-1.27 0.683-1.95401 0.87901-2.93001 0.87902-1.27 0-2.149-0.29301-3.418-0.87902-5.469-2.539-12.891-8.39899-19.629-15.03898-6.543-6.543-11.719-13.37901-14.453-18.65301-0.293-0.781-0.684-1.953-0.684-3.027 0-0.879 0.489-1.66 0.977-2.637l6.543-11.23c1.855-3.0276 2.344-4.7854 2.344-7.1292 0-2.7343-0.879-5.664-3.614-9.375l-11.7184-16.5039c-3.3204-4.6875-5.8594-7.5195-9.668-7.5195-4.6875 0-10.2539 3.7109-14.3555 7.5195-5.8593 5.5664-8.9843 13.4766-8.9843 22.2657 0 19.9214 15.4296 44.1404 35.9374 64.6484z",
+                              "fill": "#ffffffff",
+                              "width": 8.218035697937012,
+                              "height": 8.224161148071289,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.0628943219780922
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "FnvVx",
+                  "x": 410,
+                  "y": 29,
+                  "name": "MÉDITE销售团队与产品团队相",
+                  "fill": "#fefefeff",
+                  "content": "联系产品顾问\n让我们一起为你的企业量身制定一份计划。",
+                  "textAlign": "center",
+                  "textAlignVertical": "middle",
+                  "fontFamily": "PingFang SC",
+                  "fontSize": 15,
+                  "fontWeight": "300",
+                  "letterSpacing": 0.6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+.section14-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #FEFEFE;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 68px 180px;
+    box-sizing: border-box;
+    gap: 56px;
+}
+
+/* ─── Header Area ─── */
+.s14-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 655px;
+    gap: 32px;
+}
+
+.s14-brand {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #353535;
+    letter-spacing: 0.36px;
+    line-height: 1;
+    margin-bottom: -16px;
+    /* Offset gap for visual grouping */
+}
+
+.s14-tagline {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: #353535;
+    letter-spacing: 2.56px;
+    line-height: 1.375;
+    margin: 0 0 12px 0;
+}
+
+.s14-desc {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #353535;
+    letter-spacing: 0.44px;
+    line-height: 1.636;
+    margin: 0;
+}
+
+.s14-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 81px;
+}
+
+.s14-btn {
+    background-color: #0079fe;
+    color: #fefefe;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 32px;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    min-width: 120px;
+    white-space: nowrap;
+    line-height: 1.4;
+}
+
+.s14-btn:hover {
+    background-color: #006ce6;
+    transform: translateY(-1px);
+}
+
+/* ─── Main Content Block ─── */
+.s14-content-block {
+    width: 1120px;
+    max-width: 100%;
+    background-color: #f9f9f9;
+    border-radius: 18px;
+    padding: 56px 43px 46px 43px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: stretch;
+    /* Stretch to fill */
+    gap: 66px;
+}
+
+/* ─── Accordion ─── */
+.s14-accordion {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    width: 250px;
+    flex-shrink: 0;
+}
+
+.s14-accordion-item {
+    display: flex;
+    flex-direction: column;
+    /* Bottom border divider */
+    border-bottom: 0.5px solid #666666;
+    padding-bottom: 16px;
+    transition: all 0.3s ease;
+}
+
+.s14-accordion-header {
+    background: none;
+    border: none;
+    padding: 0 12px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    cursor: pointer;
+    text-align: left;
+}
+
+.s14-accordion-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 0.56px;
+}
+
+.s14-accordion-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+/* The open icon should point UP (chevron.up in pen) */
+.s14-accordion-icon.open {
+    transform: rotate(180deg);
+}
+
+.s14-accordion-body {
+    padding-top: 16px;
+    padding-right: 12px;
+}
+
+.s14-accordion-text {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    color: #666666;
+    letter-spacing: 0.4px;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* ─── Device Mockup Area ─── */
+.s14-device-mockup {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s14-mockup-placeholder {
+    width: 649px;
+    height: 353px;
+    max-width: 100%;
+    background-color: #eeeeee;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+    /* To represent the multi-device image from mockup */
+    background-image: linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+/* Optional stylistic inner element if we don't have the real image */
+.s14-mockup-inner {
+    position: absolute;
+    inset: 10%;
+    border: 2px dashed #cccccc;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.s14-mockup-inner::before {
+    content: 'Device Mockup Image';
+    color: #999999;
+    font-family: sans-serif;
+    font-size: 14px;
+}

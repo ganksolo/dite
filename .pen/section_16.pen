@@ -1,0 +1,1230 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "KtIeH",
+      "x": -720,
+      "y": -414,
+      "name": "Section 31",
+      "width": 1440,
+      "height": 828,
+      "fill": "#ffffffff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 10,
+      "padding": [
+        68,
+        0
+      ],
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "PI5uD",
+          "name": "Frame 264",
+          "width": 1020,
+          "height": "fill_container",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 52,
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "bo32y",
+              "name": "Frame 263",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "s49w5",
+                  "name": "Frame 118",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": {
+                      "bottom": 0.5
+                    },
+                    "fill": {
+                      "type": "color",
+                      "color": "#dededeff",
+                      "enabled": false
+                    }
+                  },
+                  "gap": 524,
+                  "padding": [
+                    0,
+                    0,
+                    14,
+                    0
+                  ],
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "zuVz7",
+                      "name": "合作品牌",
+                      "fill": "#363636ff",
+                      "textGrowth": "fixed-width",
+                      "width": 89,
+                      "content": "服务门店",
+                      "lineHeight": 1.4545454545454546,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 22,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "AwXhH",
+                  "name": "Frame 125",
+                  "width": "fill_container",
+                  "height": 36,
+                  "fill": "#ffffffff",
+                  "cornerRadius": 100,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 0.5,
+                    "fill": "#424242ff"
+                  },
+                  "gap": 10,
+                  "padding": [
+                    11,
+                    36
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "sSwPy",
+                      "name": "英国纺织品牌Scabal于193",
+                      "fill": "#666666ff",
+                      "content": "MÉDITE 需要获取你的位置来来搜索最近的门店。",
+                      "lineHeight": 1.3333333333333333,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 9,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "E5RTq",
+              "name": "Frame 126",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 22,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "gObax",
+                  "name": "Frame 110",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 58,
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Hhu0a",
+                      "name": "Frame 109",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "dtCzT",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "6TNwj",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Tu7yO",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "O7vmR",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "DA5KI",
+                      "name": "Frame 110",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "HlPfE",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "OXqze",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "fNFVJ",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "a9DR5",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "yCG5w",
+                      "name": "Frame 111",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "3oF9m",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "ahUcv",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "IFCwJ",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "rILVQ",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "utDL2",
+                      "name": "Frame 112",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "Py3sO",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "gho6m",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "8BNom",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "KyFgn",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Xy0C6",
+                  "name": "Frame 115",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 58,
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "6nLa0",
+                      "name": "Frame 109",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "YFKV2",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "ovtlO",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "K3wsZ",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "jD5vq",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "DV5HS",
+                      "name": "Frame 110",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "mokmx",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "tsRIA",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "F6nQc",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "xNEIu",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "P9bAo",
+                      "name": "Frame 111",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "7Xfkc",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "SdGR8",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "36biU",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "nQVdd",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "4PkHk",
+                      "name": "Frame 112",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "RiAeS",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "QQcmj",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "LSaAL",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "DBJ4G",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "QoTY8",
+                  "name": "Frame 116",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 58,
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "aRhHC",
+                      "name": "Frame 109",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "UI1GM",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "4NWw8",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "aG8i9",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "qCTpb",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "2XyZ4",
+                      "name": "Frame 110",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "mLAne",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "0wWkG",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "tg4yy",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "y1i0E",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "uydis",
+                      "name": "Frame 111",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "WoWvb",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "DXvZj",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Gm8Xv",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "41WgD",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "0ATGQ",
+                      "name": "Frame 112",
+                      "width": 208,
+                      "height": 159,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "jTngP",
+                          "name": "Frame 1",
+                          "width": "fill_container",
+                          "height": 108,
+                          "fill": "#c8c8c8ff",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "qvbKW",
+                          "name": "Groups",
+                          "enabled": false,
+                          "width": "fill_container",
+                          "height": 51,
+                          "fill": "#00000000",
+                          "cornerRadius": [
+                            0,
+                            0,
+                            13,
+                            13
+                          ],
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.5,
+                            "fill": {
+                              "type": "color",
+                              "color": "#d1d1d1ff",
+                              "enabled": false
+                            }
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            14
+                          ],
+                          "justifyContent": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "hVlIF",
+                              "name": "主题活动",
+                              "fill": "#424242ff",
+                              "content": "sens私人订制男装",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "at3uW",
+                              "name": "主题活动",
+                              "enabled": false,
+                              "fill": "#424242ff",
+                              "content": "新源南路昆仑饭店3层0310",
+                              "textAlign": "right",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "PingFang SC",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "rectangle",
+          "id": "RI9Fr",
+          "name": "Background",
+          "enabled": false,
+          "fill": {
+            "type": "image",
+            "enabled": true,
+            "url": "",
+            "mode": "fill"
+          },
+          "width": "fill_container",
+          "height": 809,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          }
+        }
+      ]
+    }
+  ]
+}

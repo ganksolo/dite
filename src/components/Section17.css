@@ -1,0 +1,186 @@
+.section17-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 68px 0;
+    box-sizing: border-box;
+    gap: 60px;
+}
+
+/* ─── Header ─── */
+.s17-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 24px;
+}
+
+.s17-subtitle {
+    font-family: "Helvetica Neue", "PingFang SC", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #353535;
+    margin: 0;
+    letter-spacing: 0.36px;
+}
+
+.s17-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: #353535;
+    margin: 0;
+    line-height: 1.375;
+    letter-spacing: 2.56px;
+}
+
+.s17-highlight {
+    color: #00d958;
+    /* vibrant green from design */
+}
+
+.s17-btn {
+    background-color: #00d958;
+    color: #333333;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    margin-top: 10px;
+}
+
+.s17-btn:hover {
+    background-color: #00c24e;
+    transform: translateY(-2px);
+}
+
+/* ─── Main Content Layout ─── */
+.s17-content {
+    width: 100%;
+    max-width: 1120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+/* ─── Feature Columns ─── */
+.s17-features-col {
+    display: flex;
+    flex-direction: column;
+    width: 254px;
+    gap: 40px;
+}
+
+.s17-feature-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-bottom: 1px solid #dedede;
+    padding-bottom: 8px;
+}
+
+.s17-feature-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.s17-feature-icon-placeholder {
+    width: 16px;
+    height: 16px;
+    background-color: #e0e0e0;
+    /* light gray circle placeholder for icon */
+    border-radius: 50%;
+}
+
+.s17-feature-title {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333333;
+    letter-spacing: 0.56px;
+}
+
+.s17-feature-desc {
+    font-family: "PingFang SC", sans-serif;
+    font-size: 9px;
+    font-weight: 300;
+    color: #666666;
+    margin: 0;
+    line-height: 1.55;
+    letter-spacing: 0.36px;
+}
+
+/* ─── Center Diagram Graphic ─── */
+.s17-diagram-container {
+    width: 476px;
+    height: 442px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.s17-diagram-placeholder {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    /* Circular dotted line placeholder representing the cycle */
+    border: 2px dashed #00d958;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+
+.s17-diagram-center-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 120px;
+    height: 120px;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+}
+
+.s17-diagram-label {
+    position: absolute;
+    font-family: "ZCOOL KuaiLe", "PingFang SC", cursive;
+    font-size: 19px;
+    color: #333333;
+    /* The labels are roughly positioned around the circle */
+}
+
+.label-top {
+    top: 10%;
+    left: 15%;
+}
+
+.label-top-right {
+    top: 15%;
+    right: 15%;
+}
+
+.label-bottom-right {
+    bottom: 20%;
+    right: 5%;
+}
+
+.label-bottom {
+    bottom: -5%;
+    left: 40%;
+}
+
+.label-bottom-left {
+    bottom: 10%;
+    left: 10%;
+}

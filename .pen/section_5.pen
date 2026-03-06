@@ -1,0 +1,1375 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "HIxRe",
+      "x": -720,
+      "y": -414,
+      "name": "Section 5",
+      "width": 1440,
+      "fill": "#fefefeff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 28,
+      "padding": [
+        56,
+        0,
+        0,
+        0
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "U9kJ0",
+          "name": "Frame 220",
+          "width": 1360,
+          "height": 32,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "gap": 851,
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "kvM4o",
+              "name": "定制门店解决方案产品",
+              "fill": "#353535ff",
+              "content": "面料品牌/经销商产品",
+              "textAlignVertical": "middle",
+              "fontFamily": "PingFang SC",
+              "fontSize": 22,
+              "fontWeight": "normal",
+              "letterSpacing": 0.88
+            },
+            {
+              "type": "text",
+              "id": "cd758",
+              "name": "来自高级定制门店，为高级定制而定",
+              "fill": "#666666ff",
+              "content": "随平台发展不断扩张的销售渠道。",
+              "lineHeight": 1.375,
+              "textAlign": "right",
+              "textAlignVertical": "middle",
+              "fontFamily": "PingFang SC",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": 0.64
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "i3A0Q",
+          "name": "Frame 29",
+          "clip": true,
+          "width": 1368,
+          "height": 504,
+          "cornerRadius": 14,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "7ap2Q",
+              "x": 0,
+              "y": -0.27001953125,
+              "name": "image 12",
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "",
+                "mode": "fill"
+              },
+              "width": 1370,
+              "height": 505.0537109375,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0.6689453125
+              }
+            },
+            {
+              "type": "frame",
+              "id": "vWzAm",
+              "x": 200,
+              "y": 104,
+              "name": "Frame 229",
+              "width": 240,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 32,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "wDitt",
+                  "name": "Frame 227",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 22,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "14BUo",
+                      "name": "Frame 226",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "YX5g7",
+                          "name": "以专业、应万变，",
+                          "fill": "#ffffffff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "让我们的能力，",
+                          "lineHeight": 1.375,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 32,
+                          "fontWeight": "normal",
+                          "letterSpacing": 2.56
+                        },
+                        {
+                          "type": "text",
+                          "id": "bWesg",
+                          "name": "向标准致敬。",
+                          "fill": "#ffffffff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "成为你的实力。",
+                          "lineHeight": 1.375,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 32,
+                          "fontWeight": "normal",
+                          "letterSpacing": 2.56
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "qUYjF",
+                      "name": "专为高级定制门店应用场景与实际需",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "针对面料经销商以及面料生产商免费开放，\n支持品牌唯一化入驻。",
+                      "lineHeight": 1.5,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 12,
+                      "fontWeight": "normal",
+                      "letterSpacing": 0.48
+                    },
+                    {
+                      "type": "text",
+                      "id": "bPWzE",
+                      "name": "定制门店版本现已推出",
+                      "fill": "#ffffffff",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "面料品牌/经销商版本  现已推出",
+                      "lineHeight": 1.5,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 12,
+                      "fontWeight": "normal",
+                      "letterSpacing": 0.48
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "iVXJv",
+                  "name": "Frame 43",
+                  "width": 30,
+                  "height": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "44pN3",
+                      "name": "ipad.gen2.landscape 2 1",
+                      "clip": true,
+                      "width": 12.279623031616211,
+                      "height": 9.535965919494629,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.04149951413273811
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "group",
+                          "id": "xSyC4",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Group",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "t2UON",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l295.89801 0 0 229.785-295.89801 0 0-229.785z",
+                              "fill": "#000000ff",
+                              "width": 12.279623031616211,
+                              "height": 9.535965919494629,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.04149951413273811
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "pJNMK",
+                              "x": 0.00011777877807617188,
+                              "y": 0.01214599609375,
+                              "name": "Vector",
+                              "geometry": "M97.2656 202.53903l101.3674 0c3.02699 0 5.27301-2.14799 5.27301-5.27299 0-3.125-2.24602-5.27401-5.27301-5.27401l-101.3674 0c-3.125 0-5.2734 2.14901-5.2734 5.27401 0 3.125 2.1484 5.27299 5.2734 5.27299z m-59.2773 26.953l219.82371 0c25.293 0 38.086-12.695 38.086-37.597l0-154.2974c0-24.9023-12.793-37.59763-38.086-37.59763l-219.82371 0c-25.1953 0-37.9883 12.59763-37.9883 37.59763l0 154.2974c0 25 12.793 37.597 37.9883 37.597z m0.3906-17.285c-13.6719 0-21.0937-7.22699-21.0937-21.19099l0-152.53951c0-13.9648 7.4218-21.1914 21.0937-21.1914l219.14109 0c13.37799 0 20.996 7.2266 20.996 21.1914l0 152.53951c0 13.964-7.61801 21.19099-20.996 21.19099l-219.14109 0z",
+                              "fill": "#ffffffff",
+                              "width": 12.279623031616211,
+                              "height": 9.523808479309082,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.04149951413273811
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "liS6a",
+                      "name": "iphone.gen2 2 1",
+                      "clip": true,
+                      "width": 6.500525951385498,
+                      "height": 10.889555931091309,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.04149951413273811
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "group",
+                          "id": "YiTHn",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Group",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "kO7ZW",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l156.64101 0 0 262.40201-156.64101 0 0-262.40201z",
+                              "fill": "#000000ff",
+                              "width": 6.500525951385498,
+                              "height": 10.889555931091309,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.04149951413273811
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "R6Yar",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "geometry": "M33.3008 262.207l89.9412 0c20.40999 0 33.39901-12.5 33.39901-32.227l0-197.7534c0-19.7266-12.98902-32.2266-33.39901-32.2266l-89.9412 0c-20.4102 0-33.3008 12.5-33.3008 32.2266l0 197.7534c0 19.727 12.8906 32.227 33.3008 32.227z m2.1484-17.285c-11.914 0-18.164-6.05501-18.164-17.48101l0-192.67539c0-11.4258 6.25-17.4804 18.164-17.4804l15.7227 0c1.9531 0 2.9297 1.0742 2.9297 2.9296l0 2.4414c0 4.8829 3.2226 8.3008 8.1054 8.3008l32.3242 0c4.8829 0 8.0078-3.4179 8.0078-8.3008l0-2.4414c0-1.8554 1.074-2.9296 2.93-2.9296l15.722 0c11.817 0 18.067 6.0546 18.067 17.4804l0 192.67539c0 11.426-6.25 17.48101-18.067 17.48101l-85.7418 0z m16.5039-9.082l52.7349 0c3.124 0 5.273-2.14901 5.273-5.27401 0-3.125-2.149-5.27299-5.273-5.27299l-52.7349 0c-3.0273 0-5.2734 2.14799-5.2734 5.27299 0 3.125 2.2461 5.27401 5.2734 5.27401z",
+                              "fill": "#ffffffff",
+                              "width": 6.500525951385498,
+                              "height": 10.881464004516602,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.04149951413273811
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Qndd7",
+                  "name": "Frame 230",
+                  "fill": "#ffffffff",
+                  "cornerRadius": 100,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "padding": [
+                    4,
+                    40
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "EaZ9H",
+                      "name": "了解更多",
+                      "fill": "#353535ff",
+                      "content": "了解更多",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "PingFang SC",
+                      "fontSize": 10,
+                      "fontWeight": "normal",
+                      "letterSpacing": 0.4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "9e4HH",
+          "name": "Frame 40",
+          "width": "fill_container",
+          "fill": "#f9f9f9ff",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "gap": 28,
+          "padding": [
+            28,
+            100
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "gC7Sl",
+              "name": "Frame 35",
+              "width": 228,
+              "fill": "#fefefeff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#dededeff"
+              },
+              "layout": "vertical",
+              "gap": 18,
+              "padding": [
+                14,
+                18,
+                10,
+                18
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "FSCG6",
+                  "name": "Frame 34",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "QOtZt",
+                      "name": "play.circle.fill 1",
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.0628943219780922
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "group",
+                          "id": "i7wm5",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Group",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "xy17y",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "geometry": "M254.395 127.246c0 70.01999-57.12901 127.149-127.247 127.149-70.01909 0-127.148-57.12901-127.148-127.149 0-70.1171 57.12891-127.246 127.148-127.246 70.11799 0 127.247 57.1289 127.247 127.246z m-163.477-45.2148l0 90.52781c0 5.761 6.5429 8.59298 12.109 5.17498l73.731-43.75c5.17599-3.02699 4.97999-10.15599 0-13.18299l-73.731-43.8479c-5.1754-3.125-12.109-0.68361-12.109 5.0781z",
+                              "fill": "#333333ff",
+                              "width": 16,
+                              "height": 15.98774528503418,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.0628943219780922
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "FsmiY",
+                      "name": "Frame 30",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "Ooloh",
+                          "name": "产品演示",
+                          "fill": "#333333ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 17,
+                          "content": "产品演示",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 13,
+                          "fontWeight": "500",
+                          "letterSpacing": 0.52
+                        },
+                        {
+                          "type": "text",
+                          "id": "CYs08",
+                          "name": "通过视频了解产品应用场景与功能",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 15,
+                          "content": "通过视频了解产品应用场景与功能",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "yob6Q",
+                  "name": "Frame 36",
+                  "width": 192,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "justifyContent": "end",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "5I0Kz",
+                      "name": "Frame 32",
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.09935710579156876
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "ckTqi",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Vector",
+                          "geometry": "M0 80.56641c0-44.4336 36.1328-80.56641 80.56641-80.56641 44.4339 0 80.46888 36.1328 80.46888 80.56641 0 44.3359-36.03498 80.46888-80.46888 80.46888-44.4336 0-80.56641-36.13298-80.56641-80.46888z",
+                          "fill": "#007bffff",
+                          "width": 16,
+                          "height": 16,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "dFP6f",
+                          "x": 3.949110269546509,
+                          "y": 3.94921875,
+                          "name": "Vector",
+                          "geometry": "M8.0078 48.7302l65.5274 0c4.395 0 7.91-3.515 7.91001-7.9099 0-4.4922-3.51501-8.0078-7.91001-8.0078l-65.5274 0c-4.4922 0-8.0078 3.51561-8.0078 8.0078 0 4.3949 3.5156 7.9099 8.0078 7.9099z m40.7224 24.805l0-65.5274c0-4.4922-3.515-8.0078-7.9099-8.0078-4.4922 0-8.0078 3.5156-8.0078 8.0078l0 65.5274c0 4.492 3.51561 7.91 8.0078 7.91001 4.3949 0 7.9099-3.51501 7.9099-7.91001z",
+                          "fill": "#ffffffff",
+                          "width": 8.092159271240234,
+                          "height": 8.092159271240234,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "tPI5H",
+              "name": "Frame 36",
+              "width": 228,
+              "fill": "#fefefeff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#dededeff"
+              },
+              "layout": "vertical",
+              "gap": 18,
+              "padding": [
+                14,
+                18,
+                10,
+                18
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "pbiLo",
+                  "name": "Frame 34",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "5rjdw",
+                      "name": "arrow.down.document.fill 1",
+                      "clip": true,
+                      "width": 12.459935188293457,
+                      "height": 16,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.05942697450518608
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "group",
+                          "id": "YCNl5",
+                          "x": -0.0000021537616703426465,
+                          "y": 0,
+                          "name": "Group",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "QEwfo",
+                              "x": 0.0000021537616703426465,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l209.668 0 0 269.23801-209.668 0 0-269.23801z",
+                              "fill": "#333333ff",
+                              "width": 12.459935188293457,
+                              "height": 16,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.05942697450518608
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "pN7vR",
+                              "x": 0,
+                              "y": 0.005910227075219154,
+                              "name": "Vector",
+                              "geometry": "M96.6797 91.40624c0 15.2341 7.2263 22.5581 22.4613 22.5581l90.527 0 0 117.188c0 25.098-12.59799 37.98801-37.59799 37.98801l-134.47231 0c-25 0-37.5977-12.793-37.5977-37.98801l0-193.1641c0-25.1953 12.793-37.98824 37.5977-37.98824l59.082 0 0 91.40624z m0 52.73411l0 50.879 0.8463 22.64-14.5182-14.92501-10.8398-11.035c-1.5625-1.563-3.8086-2.539-5.9571-2.539-4.6875 0-8.0078 3.22201-8.0078 7.81201 0 2.832 1.3672 4.68799 3.125 6.34799l37.5977 35.254c2.3442 2.051 4.0042 2.832 6.2502 2.832 2.441 0 4.004-0.781 6.25-2.832l37.59699-35.254c1.85601-1.66 3.125-3.51599 3.125-6.34799 0-4.59-3.51498-7.81201-7.90998-7.81201-2.24601 0-4.394 0.976-6.054 2.539l-10.74301 11.035-14.588 14.928 0.917-22.64299 0-50.879c0-4.59-3.907-8.3-8.594-8.3-4.59 0-8.4963 3.71-8.4963 8.3z m29.7853-133.30051l72.363 73.3398c5.176 5.1758 8.49599 9.5704 9.277 14.1602l-88.378 0c-4.98101 0-7.422-2.4414-7.422-7.42189l0-89.45311c4.492 0.78125 9.17899 4.19922 14.16 9.375z",
+                              "fill": "#333333ff",
+                              "width": 12.459935188293457,
+                              "height": 15.994196891784668,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.05942697450518608
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "eo57E",
+                      "name": "Frame 30",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "hZLu0",
+                          "name": "产品演示",
+                          "fill": "#333333ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 17,
+                          "content": "用户手册",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 13,
+                          "fontWeight": "500",
+                          "letterSpacing": 0.52
+                        },
+                        {
+                          "type": "text",
+                          "id": "qmUcV",
+                          "name": "通过视频了解产品应用场景与功能",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 15,
+                          "content": "在线查看或下载产品用户手册",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "kZ1Fg",
+                  "name": "Frame 36",
+                  "width": 192,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "justifyContent": "end",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "1Wjld",
+                      "name": "Frame 32",
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.09935710579156876
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "mzMLF",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Vector",
+                          "geometry": "M0 80.56641c0-44.4336 36.1328-80.56641 80.56641-80.56641 44.4339 0 80.46888 36.1328 80.46888 80.56641 0 44.3359-36.03498 80.46888-80.46888 80.46888-44.4336 0-80.56641-36.13298-80.56641-80.46888z",
+                          "fill": "#007bffff",
+                          "width": 16,
+                          "height": 16,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "1cSSp",
+                          "x": 3.949110269546509,
+                          "y": 3.94921875,
+                          "name": "Vector",
+                          "geometry": "M8.0078 48.7302l65.5274 0c4.395 0 7.91-3.515 7.91001-7.9099 0-4.4922-3.51501-8.0078-7.91001-8.0078l-65.5274 0c-4.4922 0-8.0078 3.51561-8.0078 8.0078 0 4.3949 3.5156 7.9099 8.0078 7.9099z m40.7224 24.805l0-65.5274c0-4.4922-3.515-8.0078-7.9099-8.0078-4.4922 0-8.0078 3.5156-8.0078 8.0078l0 65.5274c0 4.492 3.51561 7.91 8.0078 7.91001 4.3949 0 7.9099-3.51501 7.9099-7.91001z",
+                          "fill": "#ffffffff",
+                          "width": 8.092159271240234,
+                          "height": 8.092159271240234,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "QugRE",
+              "name": "Frame 37",
+              "width": 228,
+              "fill": "#fefefeff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#dededeff"
+              },
+              "layout": "vertical",
+              "gap": 18,
+              "padding": [
+                14,
+                18,
+                10,
+                18
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "8tBfl",
+                  "name": "Frame 34",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "n03rp",
+                      "name": "creditcard.fill 1",
+                      "clip": true,
+                      "width": 18,
+                      "height": 16,
+                      "fill": {
+                        "type": "color",
+                        "color": "#ffffffff",
+                        "enabled": false
+                      },
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.061215534806251526
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "group",
+                          "id": "RJdp4",
+                          "x": 0,
+                          "y": 1.980224609375,
+                          "name": "Group",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "FK8U4",
+                              "x": 0,
+                              "y": 0,
+                              "name": "Vector",
+                              "opacity": 0,
+                              "geometry": "M0 0l294.043 0 0 212.59801-294.043 0 0-212.59801z",
+                              "fill": "#333333ff",
+                              "width": 18,
+                              "height": 13.014301300048828,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.061215534806251526
+                              }
+                            },
+                            {
+                              "type": "path",
+                              "id": "4UzKh",
+                              "x": 0.0000152587890625,
+                              "y": 0.018039241433143616,
+                              "name": "Vector",
+                              "geometry": "M50.7812 173.92603c-7.4218 0-12.4023-4.98101-12.4023-12.11001l0-23.33898c0-7.129 4.9805-12.11001 12.4023-12.11001l30.8594 0c7.3242 0 12.4024 4.98101 12.4024 12.11001l0 23.33898c0 7.129-5.07819 12.11001-12.4024 12.11001l-30.8594 0z m-50.7812-96.7776l0-28.3203 294.043 0 0 28.3203-294.043 0z m37.9883 135.15661l217.9687 0c25.293 0 38.086-12.79302 38.086-37.69602l0-136.91369c0-24.9024-12.793-37.69533-38.086-37.69533l-217.9687 0c-25.1953 0-37.9883 12.69533-37.9883 37.69533l0 136.91369c0 25 12.793 37.69602 37.9883 37.69602z",
+                              "fill": "#333333ff",
+                              "width": 18,
+                              "height": 12.996366500854492,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 0.061215534806251526
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Wa4Sc",
+                      "name": "Frame 30",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "VJwkj",
+                          "name": "产品演示",
+                          "fill": "#333333ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 17,
+                          "content": "预约购买",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 13,
+                          "fontWeight": "500",
+                          "letterSpacing": 0.52
+                        },
+                        {
+                          "type": "text",
+                          "id": "rVTsL",
+                          "name": "通过视频了解产品应用场景与功能",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 15,
+                          "content": "通过在线网站提交产品购买申请表",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "lFA94",
+                  "name": "Frame 36",
+                  "width": 192,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "justifyContent": "end",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "bKsxc",
+                      "name": "Frame 32",
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.09935710579156876
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "M2amZ",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Vector",
+                          "geometry": "M0 80.56641c0-44.4336 36.1328-80.56641 80.56641-80.56641 44.4339 0 80.46888 36.1328 80.46888 80.56641 0 44.3359-36.03498 80.46888-80.46888 80.46888-44.4336 0-80.56641-36.13298-80.56641-80.46888z",
+                          "fill": "#007bffff",
+                          "width": 16,
+                          "height": 16,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "30beR",
+                          "x": 3.949110269546509,
+                          "y": 3.94921875,
+                          "name": "Vector",
+                          "geometry": "M8.0078 48.7302l65.5274 0c4.395 0 7.91-3.515 7.91001-7.9099 0-4.4922-3.51501-8.0078-7.91001-8.0078l-65.5274 0c-4.4922 0-8.0078 3.51561-8.0078 8.0078 0 4.3949 3.5156 7.9099 8.0078 7.9099z m40.7224 24.805l0-65.5274c0-4.4922-3.515-8.0078-7.9099-8.0078-4.4922 0-8.0078 3.5156-8.0078 8.0078l0 65.5274c0 4.492 3.51561 7.91 8.0078 7.91001 4.3949 0 7.9099-3.51501 7.9099-7.91001z",
+                          "fill": "#ffffffff",
+                          "width": 8.092159271240234,
+                          "height": 8.092159271240234,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "JMFZD",
+              "name": "Frame 38",
+              "width": 228,
+              "fill": "#fefefeff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#dededeff"
+              },
+              "layout": "vertical",
+              "gap": 18,
+              "padding": [
+                14,
+                18,
+                10,
+                18
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "3Rq8z",
+                  "name": "Frame 34",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "o5pI0",
+                      "name": "Frame 199",
+                      "width": 12.990363121032715,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.050771571695804596
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "wP4tH",
+                          "x": -0.0002549797354731709,
+                          "y": 0.0001373291015625,
+                          "name": "Vector",
+                          "opacity": 0,
+                          "geometry": "M0 0l255.85899 0 0 315.13699-255.85899 0 0-315.13699z",
+                          "fill": "#333333ff",
+                          "width": 12.990363121032715,
+                          "height": 16,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.050771571695804596
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "ynGfE",
+                          "x": 3.0985958576202393,
+                          "y": 0.0001373291015625,
+                          "name": "Vector",
+                          "geometry": "M194.82379 37.9883l0 177.0507c0 25.293-12.597 37.98799-37.597 37.98799l-23.43799 0 0-153.31999c0-25.0976-12.597-37.9882-37.597-37.9882l-96.1918 0 0-23.7305c0-25.293 12.6953-37.9883 37.6953-37.9883l119.53149 0c25 0 37.597 12.793 37.597 37.9883z m-127.24599-12.8906c-5.175 0-7.617 3.3203-7.617 6.9335l0 2.4415c0 3.6132 2.442 6.9335 7.61701 6.9335l59.76599 0c5.078 0 7.51899-3.3203 7.51899-6.9335l0-2.4415c0-3.6132-2.44099-6.9335-7.51899-6.9335l-59.766 0z",
+                          "fill": "#333333ff",
+                          "width": 9.891510009765625,
+                          "height": 12.846577644348145,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.050771571695804596
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "APE24",
+                          "x": -0.0002549797354731709,
+                          "y": 3.133695125579834,
+                          "name": "Vector",
+                          "geometry": "M0 215.0392c0 25.293 12.5977 37.98801 37.5977 37.98801l119.62931 0c25 0 37.597-12.79302 37.597-37.98801l0-177.051c0-25.0976-12.597-37.9882-37.597-37.9882l-119.62931 0c-25 0-37.5977 12.7929-37.5977 37.9882l0 177.051z m17.2852-0.293l0-176.367c0-13.6722 7.2265-21.0941 21.1914-21.0941l117.7734 0c14.062 0 21.289 7.4219 21.289 21.0941l0 176.367c0 13.57401-7.227 20.996-21.289 20.996l-117.7734 0c-13.9649 0-21.1914-7.42199-21.1914-20.996z",
+                          "fill": "#333333ff",
+                          "width": 9.891520500183105,
+                          "height": 12.846588134765625,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.050771571695804596
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "aznjP",
+                          "x": 1.3624708652496338,
+                          "y": 6.708529472351074,
+                          "name": "Vector",
+                          "geometry": "M3.82359 64.355l35.0586 0c4.0039 0 4.9804-3.808 2.7343-6.836l-15.625-22.265c-2.539-3.711-6.7382-3.906-9.4726 0l-15.3321 22.265c-2.2461 3.028-1.2695 6.836 2.6368 6.836z m66.9921 47.559c13.8668 0 26.4648-5.17601 35.4488-12.98801 4.004-3.028 4.10201-7.42199 2.05101-10.05899-1.953-2.441-5.85901-3.32-9.96101-0.293-7.324 6.25-16.797 10.254-27.5388 10.254-23.7304 0-42.9687-19.23801-42.9687-42.871 0-3.613-2.9297-6.543-6.543-6.543-3.5156 0-6.5429 2.93-6.5429 6.543 0 30.957 25.0976 55.957 56.0546 55.957z m66.99179-64.35499l-35.15598 0c-4.004 0-4.88301 3.80799-2.734 6.83499l15.62499 22.266c2.539 3.711 6.836 3.906 9.472 0l15.43-22.266c2.149-3.027 1.172-6.83499-2.63701-6.83499z m-66.99179-47.55901c-13.8671 0-26.5624 5.17601-35.5468 12.98801-4.0039 3.028-4.1016 7.42199-2.0508 10.05899 1.9531 2.441 5.8594 3.32 9.9609 0.293 7.3243-6.25 16.7969-10.254 27.6367-10.254 23.6328 0 42.8708 19.238 42.8708 42.871 0 3.613 2.93001 6.543 6.54301 6.543 3.614 0 6.543-2.93 6.543-6.543 0-30.957-25.09701-55.957-55.95681-55.957z",
+                          "fill": "#333333ff",
+                          "width": 7.187464237213135,
+                          "height": 5.682049751281738,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.050771571695804596
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "XpzCD",
+                      "name": "Frame 30",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "wU27C",
+                          "name": "产品演示",
+                          "fill": "#333333ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 17,
+                          "content": "迭代计划",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 13,
+                          "fontWeight": "500",
+                          "letterSpacing": 0.52
+                        },
+                        {
+                          "type": "text",
+                          "id": "cdplb",
+                          "name": "通过视频了解产品应用场景与功能",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 15,
+                          "content": "了解平台及产品本年内的功能迭代计划",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "WdlxL",
+                  "name": "Frame 36",
+                  "width": 192,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "justifyContent": "end",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "KcNsB",
+                      "name": "Frame 32",
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.09935710579156876
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "FDEm8",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Vector",
+                          "geometry": "M0 80.56641c0-44.4336 36.1328-80.56641 80.56641-80.56641 44.4339 0 80.46888 36.1328 80.46888 80.56641 0 44.3359-36.03498 80.46888-80.46888 80.46888-44.4336 0-80.56641-36.13298-80.56641-80.46888z",
+                          "fill": "#007bffff",
+                          "width": 16,
+                          "height": 16,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "vL3jy",
+                          "x": 3.949110269546509,
+                          "y": 3.94921875,
+                          "name": "Vector",
+                          "geometry": "M8.0078 48.7302l65.5274 0c4.395 0 7.91-3.515 7.91001-7.9099 0-4.4922-3.51501-8.0078-7.91001-8.0078l-65.5274 0c-4.4922 0-8.0078 3.51561-8.0078 8.0078 0 4.3949 3.5156 7.9099 8.0078 7.9099z m40.7224 24.805l0-65.5274c0-4.4922-3.515-8.0078-7.9099-8.0078-4.4922 0-8.0078 3.5156-8.0078 8.0078l0 65.5274c0 4.492 3.51561 7.91 8.0078 7.91001 4.3949 0 7.9099-3.51501 7.9099-7.91001z",
+                          "fill": "#ffffffff",
+                          "width": 8.092159271240234,
+                          "height": 8.092159271240234,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "kpevW",
+              "name": "Frame 39",
+              "width": 228,
+              "fill": "#fefefeff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#dededeff"
+              },
+              "layout": "vertical",
+              "gap": 18,
+              "padding": [
+                14,
+                18,
+                10,
+                18
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "TIlmx",
+                  "name": "Frame 34",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "GkJRr",
+                      "name": "Frame 200",
+                      "width": 17.092151641845703,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.9495640397071838
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "NCIFo",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Vector",
+                          "geometry": "M275.09799 55.0782l0 99.60959c0 34.765-19.72699 54.88301-55.07799 54.88301l-89.74701 0-45.60499 41.11299c-4.9805 4.59-8.2032 6.83602-12.5 6.83602-6.25 0-9.8633-4.49202-9.8633-11.32802l0-36.62099-7.2266 0c-35.4492 0-55.0781-19.92201-55.0781-54.88301l0-99.60959c0-34.961 19.6289-55.0782 55.0781-55.0782l164.9419 0c35.351 0 55.07799 20.2149 55.07799 55.0782z m-201.75819 108.10559c0 4.19901 1.9532 7.129 6.543 7.129l115.5272 0c4.59 0 6.543-2.92999 6.543-7.129 0-13.67199-20.50799-49.80499-64.35499-49.80499-43.75031 0-64.25821 36.133-64.25821 49.80499z m32.3242-95.0197c0 20.0197 14.258 34.9607 31.93401 35.0587 17.77299 0.098 32.03099-15.039 32.03099-35.0587 0-18.6523-14.258-34.17969-32.03099-34.17969-17.67601 0-31.93401 15.5274-31.93401 34.17969z",
+                          "fill": "#333333ff",
+                          "width": 17.092151641845703,
+                          "height": 16,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.06213114410638809
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "HylM5",
+                      "name": "Frame 30",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "XxtIw",
+                          "name": "产品演示",
+                          "fill": "#333333ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 17,
+                          "content": "咨询客服",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 13,
+                          "fontWeight": "500",
+                          "letterSpacing": 0.52
+                        },
+                        {
+                          "type": "text",
+                          "id": "4l6e7",
+                          "name": "通过视频了解产品应用场景与功能",
+                          "fill": "#666666ff",
+                          "textGrowth": "fixed-width-height",
+                          "width": "fill_container",
+                          "height": 15,
+                          "content": "在线联络并咨询客服人员",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "PingFang SC",
+                          "fontSize": 10,
+                          "fontWeight": "300",
+                          "letterSpacing": 0.4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "4Chbg",
+                  "name": "Frame 36",
+                  "width": 192,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 10,
+                  "justifyContent": "end",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Urgoc",
+                      "name": "Frame 32",
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 0.09935710579156876
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "i8OLq",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Vector",
+                          "geometry": "M0 80.56641c0-44.4336 36.1328-80.56641 80.56641-80.56641 44.4339 0 80.46888 36.1328 80.46888 80.56641 0 44.3359-36.03498 80.46888-80.46888 80.46888-44.4336 0-80.56641-36.13298-80.56641-80.46888z",
+                          "fill": "#007bffff",
+                          "width": 16,
+                          "height": 16,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        },
+                        {
+                          "type": "path",
+                          "id": "BTz90",
+                          "x": 3.949110269546509,
+                          "y": 3.94921875,
+                          "name": "Vector",
+                          "geometry": "M8.0078 48.7302l65.5274 0c4.395 0 7.91-3.515 7.91001-7.9099 0-4.4922-3.51501-8.0078-7.91001-8.0078l-65.5274 0c-4.4922 0-8.0078 3.51561-8.0078 8.0078 0 4.3949 3.5156 7.9099 8.0078 7.9099z m40.7224 24.805l0-65.5274c0-4.4922-3.515-8.0078-7.9099-8.0078-4.4922 0-8.0078 3.5156-8.0078 8.0078l0 65.5274c0 4.492 3.51561 7.91 8.0078 7.91001 4.3949 0 7.9099-3.51501 7.9099-7.91001z",
+                          "fill": "#ffffffff",
+                          "width": 8.092159271240234,
+                          "height": 8.092159271240234,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 0.09935710579156876
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
