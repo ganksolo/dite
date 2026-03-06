@@ -1,6 +1,5 @@
 .section1-container {
     width: 100%;
-    max-width: 1440px;
     margin: 0 auto;
     background-color: #FFFFFF;
     display: flex;
@@ -34,6 +33,22 @@
     gap: 28px;
     padding: 12px 0;
     width: 100%;
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+
+/* Sticky State */
+.s1-nav-sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #007aff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.s1-nav-sticky a,
+.s1-nav-sticky .s1-icons {
+    color: #ffffff !important;
 }
 
 .s1-nav {
@@ -62,7 +77,6 @@
 .s1-hero {
     position: relative;
     width: 100%;
-    max-width: 1440px;
     height: 519px;
     /* Simulating the wavy green background from design */
     background: linear-gradient(135deg, #00C853 0%, #00931B 50%, #00600F 100%);
@@ -129,8 +143,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    padding: 40px 210px;
-    /* Using 40px top/bottom for spacing, 210px sides from 9v4x0 */
+    padding: 40px 0;
+    /* padding 0 horizontally, constrain via inner width */
+    width: 100%;
+    max-width: 1020px;
+    /* ~1440px - 210px*2 */
+    margin: 0 auto;
     height: 248px;
     background-color: #FEFEFE;
     gap: 12px;

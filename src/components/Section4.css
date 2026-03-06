@@ -1,6 +1,5 @@
 .section4-container {
     width: 100%;
-    max-width: 1440px;
     margin: 0 auto;
     background-color: #F9F9F9;
     display: flex;
@@ -15,8 +14,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 68px 354px;
-    /* From Frame 241 */
+    padding: 68px 20px;
     gap: 16px;
     box-sizing: border-box;
 }
@@ -50,6 +48,7 @@
     line-height: 1.636;
     text-align: center;
     margin: 0;
+    max-width: 732px;
 }
 
 /* Main Content Area */
@@ -185,10 +184,11 @@
 /* Info Cards Grid (Bottom section) */
 .s4-cards-container {
     width: 100%;
-    padding: 28px 94px;
+    padding: 28px 20px;
     background-color: #F9F9F9;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 28px;
     box-sizing: border-box;
 }

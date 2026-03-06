@@ -1,12 +1,10 @@
 .section7-container {
     width: 100%;
-    max-width: 1440px;
     margin: 0 auto;
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 56px;
 }
 
 /* Header Area */
@@ -140,18 +138,18 @@
 
 /* Info Cards Grid (5 white cards) */
 .s7-cards-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     width: 100%;
-    max-width: 1440px;
-    padding: 0 94px;
+    padding: 28px 20px;
+    background-color: #F9F9F9;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 28px;
     box-sizing: border-box;
 }
 
 .s7-card {
-    flex: 1;
+    width: 228px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -162,6 +160,8 @@
     gap: 18px;
     min-height: 120px;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-sizing: border-box;
+    cursor: pointer;
 }
 
 .s7-card:hover {

@@ -1,13 +1,33 @@
-import React from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './Section1.css';
 
 const Section1 = () => {
+    const [isSticky, setIsSticky] = useState(false);
+    const navRef = useRef(null);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            if (navRef.current) {
+                // Get the nav's original offset relative to the document
+                // Since it's near the top we can just measure scrollY. For robustness, 
+                // we'll stick when we scroll past the logo (roughly 40-50px).
+                setIsSticky(window.scrollY > 50);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
+
     return (
         <section className="section1-container">
             {/* Header */}
             <header className="s1-header">
                 <div className="s1-logo">MÉDITE</div>
-                <div className="s1-nav-row">
+                <div
+                    ref={navRef}
+                    className={`s1-nav-row ${isSticky ? 's1-nav-sticky' : ''}`}
+                >
                     <nav className="s1-nav">
                         <a href="#">MÉDITE</a>
                         <a href="#">SaaS+Ai</a>

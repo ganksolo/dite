@@ -45,7 +45,6 @@
 /* ─── Footer Main Area (Dark Fabric Background) ─── */
 .s20-footer-main {
     width: 100%;
-    max-width: 1440px;
     height: 684px;
     background-color: #2b456b;
     /* Dark blue background fallback */
