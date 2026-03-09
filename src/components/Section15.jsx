@@ -43,22 +43,25 @@ const Section15 = () => {
 
             {/* Brands Grid Area */}
             <div className="s15-brands-grid">
-                {gridItems.map((imgNum, index) => (
-                    <div
-                        key={index}
-                        className="s15-brand-item"
-                        style={imgNum ? {
-                            backgroundImage: `url('/src/assets/imgs/image ${imgNum}.png')`,
-                            backgroundSize: 'contain',
-                            backgroundPosition: 'center',
-                            backgroundRepeat: 'no-repeat',
-                            backgroundColor: '#fff' // Remove default #fafafa to make images cleaner if transparent
-                        } : {}}
-                    >
-                        {/* If no image number exists, render the original placeholder */}
-                        {!imgNum && <div className="s15-brand-logo-placeholder"></div>}
-                    </div>
-                ))}
+                {gridItems.map((imgNum, index) => {
+                    const imgUrl = imgNum ? new URL(`../assets/imgs/image ${imgNum}.png`, import.meta.url).href : null;
+                    return (
+                        <div
+                            key={index}
+                            className="s15-brand-item"
+                            style={imgNum ? {
+                                backgroundImage: `url("${imgUrl}")`,
+                                backgroundSize: 'contain',
+                                backgroundPosition: 'center',
+                                backgroundRepeat: 'no-repeat',
+                                backgroundColor: '#fff' // Remove default #fafafa to make images cleaner if transparent
+                            } : {}}
+                        >
+                            {/* If no image number exists, render the original placeholder */}
+                            {!imgNum && <div className="s15-brand-logo-placeholder"></div>}
+                        </div>
+                    );
+                })}
             </div>
         </section>
     );
