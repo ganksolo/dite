@@ -1,6 +1,5 @@
 .section12-container {
     width: 100%;
-    max-width: 1440px;
     margin: 0 auto;
     background-color: #FEFEFE;
     display: flex;
@@ -34,7 +33,7 @@
 .s12-hero-overlay {
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, 0.2);
+    background: url('../assets/imgs/b8.png') center/cover no-repeat;
     z-index: 2;
 }
 

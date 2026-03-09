@@ -22,32 +22,10 @@
 }
 
 .s13-brand-logo {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 4px;
+    width: 300px;
+    height: 40px;
+    background: url('../assets/imgs/mini-logo.png') center / 100% 100% no-repeat;
     margin-bottom: 4px;
-    /* Space between logo and tagline */
-}
-
-/* Fallback stylized font for Medite logo */
-.s13-logo-medite {
-    font-family: "Brush Script MT", "Cursive", "Helvetica Neue", sans-serif;
-    font-size: 42px;
-    font-weight: 400;
-    color: #000;
-    line-height: 1;
-    font-style: italic;
-    letter-spacing: -1px;
-}
-
-.s13-logo-sub {
-    font-family: "Helvetica Neue", "Arial", sans-serif;
-    font-size: 10px;
-    color: #666;
-    letter-spacing: 0.5px;
-    margin-left: 20px;
-    /* Align to look like the pen file */
 }
 
 .s13-tagline {

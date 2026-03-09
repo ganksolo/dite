@@ -7,10 +7,7 @@ const Section13 = () => {
             {/* Header Area */}
             <div className="s13-header">
                 {/* Logo Area (Text representation of Medite Designer Workshop) */}
-                <div className="s13-brand-logo">
-                    <span className="s13-logo-medite">Medite</span>
-                    <span className="s13-logo-sub">Designer Workshop</span>
-                </div>
+                <div className="s13-brand-logo"></div>
 
                 <h2 className="s13-tagline">你只负责优秀，其他交给我们。</h2>
                 <p className="s13-desc">

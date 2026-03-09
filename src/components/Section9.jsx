@@ -27,19 +27,9 @@ const Section9 = () => {
                             <h3 className="s9-card-title">定制门店解决方案产品</h3>
                         </div>
 
-                        {/* Device mockup placeholder */}
-                        <div className="s9-mockup">
-                            <div className="s9-mockup-screen">
-                                <div className="s9-mockup-inner">
-                                    <div className="s9-mockup-sidebar"></div>
-                                    <div className="s9-mockup-content">
-                                        <div className="s9-mockup-bar"></div>
-                                        <div className="s9-mockup-bar s9-mockup-bar--short"></div>
-                                        <div className="s9-mockup-bar"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        {/* Device mockup */}
+                        <div className="s9-mockup"></div>
+
 
                         {/* Deployment section */}
                         <div className="s9-section-row">
@@ -129,18 +119,9 @@ const Section9 = () => {
                             <h3 className="s9-card-title">面料商解决方案产品</h3>
                         </div>
 
-                        <div className="s9-mockup">
-                            <div className="s9-mockup-screen">
-                                <div className="s9-mockup-inner">
-                                    <div className="s9-mockup-sidebar"></div>
-                                    <div className="s9-mockup-content">
-                                        <div className="s9-mockup-bar"></div>
-                                        <div className="s9-mockup-bar s9-mockup-bar--short"></div>
-                                        <div className="s9-mockup-bar"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        {/* Device mockup */}
+                        <div className="s9-mockup"></div>
+
 
                         <div className="s9-section-row">
                             <span className="s9-label">部署：</span>
@@ -206,18 +187,9 @@ const Section9 = () => {
                             <h3 className="s9-card-title">代工厂解决方案产品</h3>
                         </div>
 
-                        <div className="s9-mockup">
-                            <div className="s9-mockup-screen">
-                                <div className="s9-mockup-inner">
-                                    <div className="s9-mockup-sidebar"></div>
-                                    <div className="s9-mockup-content">
-                                        <div className="s9-mockup-bar"></div>
-                                        <div className="s9-mockup-bar s9-mockup-bar--short"></div>
-                                        <div className="s9-mockup-bar"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        {/* Device mockup */}
+                        <div className="s9-mockup"></div>
+
 
                         <div className="s9-section-row">
                             <span className="s9-label">部署：</span>

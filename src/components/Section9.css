@@ -99,52 +99,25 @@
     margin: 0;
 }
 
-/* ─── Device Mockup (placeholder) ─── */
+/* ─── Device Mockup ─── */
 .s9-mockup {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 140px;
+    width: 100%;
 }
 
-.s9-mockup-screen {
-    width: 180px;
-    height: 110px;
-    background-color: #1a1a2e;
-    border-radius: 6px;
-    border: 1.5px solid #e0e0e0;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+.s9-card:nth-child(1) .s9-mockup {
+    background: url('../assets/imgs/c1.png') center/contain no-repeat;
 }
 
-.s9-mockup-inner {
-    display: flex;
-    height: 100%;
+.s9-card:nth-child(2) .s9-mockup {
+    background: url('../assets/imgs/c2.png') center/contain no-repeat;
 }
 
-.s9-mockup-sidebar {
-    width: 36px;
-    height: 100%;
-    background-color: #16213e;
-    border-right: 1px solid rgba(255, 255, 255, 0.06);
-}
-
-.s9-mockup-content {
-    flex: 1;
-    padding: 10px 8px;
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-}
-
-.s9-mockup-bar {
-    height: 8px;
-    background-color: rgba(255, 255, 255, 0.12);
-    border-radius: 4px;
-}
-
-.s9-mockup-bar--short {
-    width: 60%;
+.s9-card:nth-child(3) .s9-mockup {
+    background: url('../assets/imgs/c3.png') center/contain no-repeat;
 }
 
 /* ─── Deployment row (label + icons) ─── */
