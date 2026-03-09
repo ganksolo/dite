@@ -39,6 +39,7 @@
     color: #353535;
     letter-spacing: 2.56px;
     line-height: 1.375;
+    white-space: nowrap;
     margin: 0 0 12px 0;
 }
 

@@ -38,6 +38,7 @@
     margin: 0;
     line-height: 1.375;
     letter-spacing: 2.56px;
+    white-space: nowrap;
 }
 
 .s18-desc {
