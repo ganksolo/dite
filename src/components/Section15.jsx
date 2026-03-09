@@ -9,8 +9,19 @@ const Section15 = () => {
         "纺织面料", "针织面料", "功能性面料", "OEM代工"
     ];
 
-    // Generating 45 placeholders (5 rows of 9 items according to the design mockup)
-    const brandPlaceholders = Array.from({ length: 45 }, (_, i) => i + 1);
+    // List of available image numbers between 44 and 87 based on the file system
+    const availableImageNumbers = [
+        44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59,
+        60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 73, 74, 75,
+        76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87
+    ];
+
+    // Generating up to 45 items total (5 rows of 9 items).
+    // The first part of the array will be the actual available image numbers.
+    // The rest will be padded with null/undefined to act as placeholders.
+    const gridItems = Array.from({ length: 45 }, (_, i) => {
+        return availableImageNumbers[i] || null;
+    });
 
     return (
         <section className="section15-container">
@@ -32,10 +43,20 @@ const Section15 = () => {
 
             {/* Brands Grid Area */}
             <div className="s15-brands-grid">
-                {brandPlaceholders.map((num) => (
-                    <div key={num} className="s15-brand-item">
-                        {/* Placeholder for brand logo image */}
-                        <div className="s15-brand-logo-placeholder"></div>
+                {gridItems.map((imgNum, index) => (
+                    <div
+                        key={index}
+                        className="s15-brand-item"
+                        style={imgNum ? {
+                            backgroundImage: `url('/src/assets/imgs/image ${imgNum}.png')`,
+                            backgroundSize: 'contain',
+                            backgroundPosition: 'center',
+                            backgroundRepeat: 'no-repeat',
+                            backgroundColor: '#fff' // Remove default #fafafa to make images cleaner if transparent
+                        } : {}}
+                    >
+                        {/* If no image number exists, render the original placeholder */}
+                        {!imgNum && <div className="s15-brand-logo-placeholder"></div>}
                     </div>
                 ))}
             </div>

@@ -65,10 +65,7 @@ const Section14 = () => {
                 <div className="s14-device-mockup">
                     {/* Placeholder for the actual image. The image is an intricate composition 
                         of a Mac, iPad, and iPhone grouped together showing the SaaS platform. */}
-                    <div className="s14-mockup-placeholder">
-                        {/* We use CSS to mimic the presence, but typically this would be an img tag using the exported asset. */}
-                        <div className="s14-mockup-inner"></div>
-                    </div>
+                    <div className="s14-mockup-placeholder"></div>
                 </div>
             </div>
         </section>

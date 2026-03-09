@@ -98,9 +98,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /* The design has small borders on each logo container */
-    border: 0.36px solid #e0e0e0;
-    border-radius: 4px;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     cursor: pointer;
     background-color: #fafafa;
@@ -109,7 +106,6 @@
 .s15-brand-item:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
-    border-color: #d1d1d1;
 }
 
 .s15-brand-logo-placeholder {

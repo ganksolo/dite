@@ -47,18 +47,18 @@
     width: 100%;
     min-height: 684px;
     background-color: #2b456b;
+    background-image: url('../assets/imgs/foot-bg.png');
+    background-repeat: repeat-x;
+    background-position: center;
     /* Dark blue background fallback */
     position: relative;
-    padding: 40px 0 60px 0;
+    padding: 40px 0 30px 0;
     /* Padding to structure contents */
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     box-sizing: border-box;
-    /* Normally you would set the fabric texture image here */
-    background-image: linear-gradient(rgba(43, 69, 107, 0.9), rgba(43, 69, 107, 0.9));
-    /* Pseudo texture overlay if an image was present */
     overflow: hidden;
 }
 
@@ -165,12 +165,42 @@
     width: 32px;
     height: 32px;
     border-radius: 50%;
-    background-color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
     cursor: pointer;
     transition: transform 0.2s;
+}
+
+.s20-social-icon-1 {
+    background-image: url('../assets/imgs/link1.png');
+}
+
+.s20-social-icon-2 {
+    background-image: url('../assets/imgs/link2.png');
+}
+
+.s20-social-icon-3 {
+    background-image: url('../assets/imgs/link3.png');
+}
+
+.s20-social-icon-4 {
+    background-image: url('../assets/imgs/link4.png');
+}
+
+.s20-social-icon-5 {
+    background-image: url('../assets/imgs/link5.png');
+}
+
+.s20-social-icon-6 {
+    background-image: url('../assets/imgs/link6.png');
+}
+
+.s20-social-icon-7 {
+    background-image: url('../assets/imgs/link7.png');
 }
 
 .s20-social-icon-placeholder:hover {
@@ -230,7 +260,7 @@
 .s20-copyright {
     width: 100%;
     max-width: 1330px;
-    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    border-top: 2px solid #ffffff;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;

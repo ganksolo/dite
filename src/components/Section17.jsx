@@ -42,7 +42,7 @@ const rightFeatures = [
 const Section17 = () => {
     return (
         <section className="section17-container">
-            {/* Header Content */}
+            {/* 
             <div className="s17-header">
                 <h3 className="s17-subtitle">MÉDITE 可持续</h3>
                 <h2 className="s17-title">
@@ -54,9 +54,7 @@ const Section17 = () => {
                 </button>
             </div>
 
-            {/* Main Content Area */}
             <div className="s17-content">
-                {/* Left Features */}
                 <div className="s17-features-col">
                     {leftFeatures.map((feature, idx) => (
                         <div key={idx} className="s17-feature-item">
@@ -69,21 +67,17 @@ const Section17 = () => {
                     ))}
                 </div>
 
-                {/* Center Diagram Graphic */}
                 <div className="s17-diagram-container">
-                    {/* The complex diagram background, arrows and icons will be placeholders for the graphic */}
                     <div className="s17-diagram-placeholder">
                         <div className="s17-diagram-label label-top">源产地保护</div>
                         <div className="s17-diagram-label label-top-right">设计与采购</div>
                         <div className="s17-diagram-label label-bottom-right">销售与渠道</div>
                         <div className="s17-diagram-label label-bottom">生产与制造</div>
                         <div className="s17-diagram-label label-bottom-left">回收与降解</div>
-                        {/* Center suit icon placeholder */}
                         <div className="s17-diagram-center-icon"></div>
                     </div>
                 </div>
 
-                {/* Right Features */}
                 <div className="s17-features-col">
                     {rightFeatures.map((feature, idx) => (
                         <div key={idx} className="s17-feature-item">
@@ -96,6 +90,7 @@ const Section17 = () => {
                     ))}
                 </div>
             </div>
+            */}
         </section>
     );
 };

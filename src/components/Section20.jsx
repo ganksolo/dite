@@ -25,7 +25,7 @@ const footerLinks = [
 ];
 
 // Placeholder SVG circles for social media icons
-const socialIcons = Array(6).fill("");
+const socialIcons = Array(7).fill("");
 
 const Section20 = () => {
     return (
@@ -60,8 +60,7 @@ const Section20 = () => {
                             <h4 className="s20-social-title">官方社交媒体</h4>
                             <div className="s20-social-icons">
                                 {socialIcons.map((_, idx) => (
-                                    <div key={idx} className="s20-social-icon-placeholder">
-                                        {/* Icon would go here depending on platform (WeChat, Weibo, etc.) */}
+                                    <div key={idx} className={`s20-social-icon-placeholder s20-social-icon-${idx + 1}`}>
                                     </div>
                                 ))}
                             </div>

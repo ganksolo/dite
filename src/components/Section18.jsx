@@ -37,17 +37,7 @@ const Section18 = () => {
                 {/* Left Side: Mockup Image Placeholder */}
                 <div className="s18-mockup-wrapper">
                     <div className="s18-mockup-placeholder">
-                        {/* Inner mockup content representative of the design */}
-                        <div className="s18-mockup-inner">
-                            <div className="s18-mockup-top-bar"></div>
-                            <h4 className="s18-mockup-title">面料品牌溯源护照</h4>
-                            <div className="s18-mockup-fabric-img"></div>
-                            <div className="s18-mockup-table">
-                                <div className="s18-mockup-row"><span className="s18-row-label">零售商</span><span className="s18-row-val bg-blue">HOLLAND & SHERRY</span></div>
-                                <div className="s18-mockup-row"><span className="s18-row-label">商品产地</span><span className="s18-row-val bg-blue">UNITED KINGDOM - LONDON</span></div>
-                                <div className="s18-mockup-row"><span className="s18-row-label">羊毛种源</span><span className="s18-row-val bg-blue">罗马尼种绵羊</span></div>
-                            </div>
-                        </div>
+                        {/* Mockup Image */}
                     </div>
                 </div>
 
