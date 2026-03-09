@@ -45,11 +45,11 @@
 /* ─── Footer Main Area (Dark Fabric Background) ─── */
 .s20-footer-main {
     width: 100%;
-    height: 684px;
+    min-height: 684px;
     background-color: #2b456b;
     /* Dark blue background fallback */
     position: relative;
-    padding: 144px 0 60px 0;
+    padding: 40px 0 60px 0;
     /* Padding to structure contents */
     display: flex;
     flex-direction: column;
@@ -232,6 +232,7 @@
     max-width: 1330px;
     border-top: 1px solid rgba(255, 255, 255, 0.3);
     padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
     font-family: "PingFang SC", sans-serif;
     font-size: 10px;
