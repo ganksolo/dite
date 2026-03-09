@@ -53,8 +53,7 @@
     border-radius: 14px;
     overflow: hidden;
     position: relative;
-    /* Dark sophistication gradient to emulate the heavy fabric image */
-    background: linear-gradient(135deg, #2b2b2b 0%, #1a1816 50%, #0d0c0b 100%);
+    background: url('../assets/imgs/b4.png') center/cover no-repeat;
     margin-bottom: 28px;
 }
 

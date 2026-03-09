@@ -53,8 +53,7 @@
     border-radius: 14px;
     overflow: hidden;
     position: relative;
-    /* Bluish-dark cool gradient to emulate the textile/jacket photo in Section 6 */
-    background: linear-gradient(135deg, #1a2030 0%, #2a3148 45%, #0e1520 100%);
+    background: url('../assets/imgs/b5.png') center/cover no-repeat;
     margin-bottom: 28px;
 }
 

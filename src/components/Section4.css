@@ -96,8 +96,7 @@
     border-radius: 14px;
     overflow: hidden;
     position: relative;
-    /* Dark sophisticated linear gradient as image placeholder since we don't have the Tailor image in assets */
-    background: linear-gradient(135deg, #1c1a1a 0%, #3d3b38 50%, #151413 100%);
+    background: url('../assets/imgs/b3.png') center/cover no-repeat;
     margin-bottom: 28px;
 }
 

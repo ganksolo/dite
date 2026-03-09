@@ -53,8 +53,7 @@
     border-radius: 14px;
     overflow: hidden;
     position: relative;
-    /* Cool dark neutral gradient to emulate the tailoring workshop photo */
-    background: linear-gradient(135deg, #1e1e1e 0%, #2d2c2b 40%, #111010 100%);
+    background: url('../assets/imgs/b6.png') center/cover no-repeat;
     margin-bottom: 28px;
 }
 

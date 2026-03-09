@@ -53,8 +53,7 @@
     border-radius: 14px;
     overflow: hidden;
     position: relative;
-    /* Desaturated warm grey to emulate the luxury street scene photo */
-    background: linear-gradient(135deg, #2a2825 0%, #3c3a36 40%, #181716 100%);
+    background: url('../assets/imgs/b7.png') center/cover no-repeat;
     margin-bottom: 28px;
 }
 
