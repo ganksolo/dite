@@ -1,8 +1,15 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './Section1.css';
 
+// Import banner images for the slides
+import banner1 from '../assets/imgs/banner-1.png';
+import banner2 from '../assets/imgs/banner-2.png';
+import banner3 from '../assets/imgs/banner-3.png';
+import banner4 from '../assets/imgs/banner-4.png';
+
 const Section1 = () => {
     const [isSticky, setIsSticky] = useState(false);
+    const [currentSlide, setCurrentSlide] = useState(0);
     const navRef = useRef(null);
 
     useEffect(() => {
@@ -18,6 +25,72 @@ const Section1 = () => {
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
+
+    const slides = [
+        {
+            bg: banner1,
+            content: (
+                <div className="s1-hero-content fade-in" key="slide0">
+                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <h1 className="s1-hero-title">定义时尚产业新秩序</h1>
+                    <div className="s1-hero-buttons">
+                        <button className="s1-pill-btn"><span className="s1-pill-text-scale">Custom Shop System</span></button>
+                        <button className="s1-pill-btn"><span className="s1-pill-text-scale">Personal Ai System</span></button>
+                        <button className="s1-pill-btn"><span className="s1-pill-text-scale">Fabric Supplier System</span></button>
+                        <button className="s1-pill-btn"><span className="s1-pill-text-scale">OEM factory system</span></button>
+                    </div>
+                </div>
+            )
+        },
+        {
+            bg: banner2,
+            content: (
+                <div className="s1-hero-content-slide2 fade-in" key="slide1">
+                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <h1 className="slide2-text-cn">
+                        时尚纺织及服装产业供应链数字化与解决方案提供商，<br />
+                        &nbsp;&nbsp;为产业不同业务类型企业输出具有针对性的S2B或S2C解决方案。
+                    </h1>
+                    <p className="slide2-text-en">
+                        A digitalization and solution provider for the fashion textile and apparel industry supply chain,<br />
+                        delivering targeted S2B or S2C solutions to enterprises with different business types in the industry.
+                    </p>
+                </div>
+            )
+        },
+        {
+            bg: banner3,
+            content: (
+                <div className="s1-hero-content-slide3 fade-in" key="slide2">
+                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <div className="slide3-group">
+                        <h1 className="slide3-title-cn">来自高级定制门店，为高级定制而定制。</h1>
+                        <p className="slide3-desc-cn">专为高级定制门店开发的数字一体化经营升级解决方案。</p>
+                    </div>
+                    <div className="slide3-group">
+                        <h2 className="slide3-title-en">From the Haute Couture Atelier, Customized for Haute Couture.</h2>
+                        <p className="slide3-desc-en">Exclusively Developed Integrated Digital Operation Upgrading Solution for Haute Couture Atelier.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            bg: banner4,
+            content: (
+                <div className="s1-hero-content-slide4 fade-in" key="slide3">
+                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <div className="slide4-group">
+                        <h1 className="slide4-title-cn">让我们的能力，成为你的实力。</h1>
+                        <p className="slide4-desc-cn">用品牌唯一与即时协同达成更快的销售合作。</p>
+                    </div>
+                    <div className="slide4-group">
+                        <h2 className="slide4-title-en">Our Capabilities, Your Strength.</h2>
+                        <p className="slide4-desc-en">Exclusive Single-Brand Supply &amp; Real-Time Collaboration, Faster Sales Partnerships.</p>
+                    </div>
+                </div>
+            )
+        }
+    ];
 
     return (
         <section className="section1-container">
@@ -54,17 +127,11 @@ const Section1 = () => {
             </header>
 
             {/* Hero Banner */}
-            <div className="s1-hero">
-                <div className="s1-hero-content">
-                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
-                    <h1 className="s1-hero-title">I'm here, I'm back.</h1>
-                    <div className="s1-hero-buttons">
-                        <button className="s1-pill-btn">Custom Shop System</button>
-                        <button className="s1-pill-btn">Personal Ai System</button>
-                        <button className="s1-pill-btn">Fabric Supplier System</button>
-                        <button className="s1-pill-btn">OEM factory system</button>
-                    </div>
-                </div>
+            <div
+                className="s1-hero"
+                style={{ backgroundImage: `url(${slides[currentSlide].bg})` }}
+            >
+                {slides[currentSlide].content}
             </div>
 
             {/* Content Grid */}
@@ -72,28 +139,28 @@ const Section1 = () => {
                 <h2 className="s1-content-title">快速找到您想了解的内容</h2>
                 <div className="s1-cards">
 
-                    <div className="s1-card">
+                    <div className="s1-card" onClick={() => setCurrentSlide(0)} style={{ cursor: 'pointer' }}>
                         <div className="s1-card-img" style={{ backgroundColor: '#00C853' }}></div>
                         <div className="s1-card-bottom">
                             <span>主题活动</span>
                         </div>
                     </div>
 
-                    <div className="s1-card">
+                    <div className="s1-card" onClick={() => setCurrentSlide(1)} style={{ cursor: 'pointer' }}>
                         <div className="s1-card-img" style={{ backgroundColor: '#1E3A8A' }}></div>
                         <div className="s1-card-bottom">
                             <span>解决方案产品</span>
                         </div>
                     </div>
 
-                    <div className="s1-card">
+                    <div className="s1-card" onClick={() => setCurrentSlide(2)} style={{ cursor: 'pointer' }}>
                         <div className="s1-card-img" style={{ backgroundColor: '#78350F' }}></div>
                         <div className="s1-card-bottom">
                             <span>产品场景与应用</span>
                         </div>
                     </div>
 
-                    <div className="s1-card">
+                    <div className="s1-card" onClick={() => setCurrentSlide(3)} style={{ cursor: 'pointer' }}>
                         <div className="s1-card-img" style={{ backgroundColor: '#1F2937' }}></div>
                         <div className="s1-card-bottom">
                             <span>供应链资源与服务</span>
