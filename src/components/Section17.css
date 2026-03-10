@@ -1,13 +1,13 @@
 .section17-container {
     width: 100%;
     margin: 0 auto;
-    background: url('../assets/imgs/section-bg.png') center/cover no-repeat;
+    background-color: #FEFEFE;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0;
+    padding: 68px 20px 48px 20px;
     box-sizing: border-box;
-    aspect-ratio: 2880 / 1656;
+    gap: 56px;
 }
 
 /* ─── Header ─── */
@@ -94,12 +94,10 @@
     gap: 6px;
 }
 
-.s17-feature-icon-placeholder {
+.s17-feature-icon {
     width: 16px;
     height: 16px;
-    background-color: #e0e0e0;
-    /* light gray circle placeholder for icon */
-    border-radius: 50%;
+    object-fit: contain;
 }
 
 .s17-feature-title {
@@ -134,52 +132,13 @@
     width: 100%;
     height: 100%;
     position: relative;
-    /* Circular dotted line placeholder representing the cycle */
-    border: 2px dashed #00d958;
-    border-radius: 50%;
-    opacity: 0.8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.s17-diagram-center-icon {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 120px;
-    height: 120px;
-    background-color: #f2f2f2;
-    border-radius: 20px;
-}
-
-.s17-diagram-label {
-    position: absolute;
-    font-family: "ZCOOL KuaiLe", "PingFang SC", cursive;
-    font-size: 19px;
-    color: #333333;
-    /* The labels are roughly positioned around the circle */
-}
-
-.label-top {
-    top: 10%;
-    left: 15%;
-}
-
-.label-top-right {
-    top: 15%;
-    right: 15%;
-}
-
-.label-bottom-right {
-    bottom: 20%;
-    right: 5%;
-}
-
-.label-bottom {
-    bottom: -5%;
-    left: 40%;
-}
-
-.label-bottom-left {
-    bottom: 10%;
-    left: 10%;
+.s17-diagram-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }

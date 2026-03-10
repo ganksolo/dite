@@ -86,6 +86,7 @@
     letter-spacing: 2.56px;
     line-height: 1.375;
     margin: 0;
+    white-space: nowrap;
 }
 
 .s7-hero-desc {
