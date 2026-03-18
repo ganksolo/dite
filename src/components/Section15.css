@@ -70,6 +70,7 @@
 
 .s15-tab.active span {
     color: #ffffff;
+    font-weight: 300;
 }
 
 .s15-tab.active:hover span {

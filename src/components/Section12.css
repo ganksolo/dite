@@ -134,7 +134,7 @@
 .s12-tab-btn.active {
     background-color: #027aff;
     color: #fefefe;
-    font-weight: 500;
+    font-weight: 300;
 }
 
 /* ─── Product Grid ─── */
@@ -195,7 +195,7 @@
     padding: 10px 32px;
     font-family: "PingFang SC", sans-serif;
     font-size: 10px;
-    font-weight: 400;
+    font-weight: 300;
     cursor: pointer;
     display: flex;
     align-items: center;
