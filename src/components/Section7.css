@@ -177,10 +177,31 @@
 }
 
 .s7-card-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #353535;
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.s7-card:nth-child(1) .s7-card-icon {
+    background-image: url('../assets/imgs/n-1.png');
+}
+
+.s7-card:nth-child(2) .s7-card-icon {
+    background-image: url('../assets/imgs/n-2.png');
+}
+
+.s7-card:nth-child(3) .s7-card-icon {
+    background-image: url('../assets/imgs/n-3.png');
+}
+
+.s7-card:nth-child(4) .s7-card-icon {
+    background-image: url('../assets/imgs/n-4.png');
+}
+
+.s7-card:nth-child(5) .s7-card-icon {
+    background-image: url('../assets/imgs/n-5.png');
 }
 
 .s7-card-add {

@@ -124,5 +124,5 @@ h3 {
 }
 
 section[class$="-container"]:not(.section8-container, .section9-container, .section17-container, .section18-container, .section20-container) {
-  padding-bottom: 20px !important;
+  margin-bottom: 52px !important;
 }

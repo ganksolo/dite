@@ -27,8 +27,8 @@ const Section6 = () => {
                             {/* Device Icons */}
                             <div className="s6-hero-devices">
                                 <svg width="19" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
-                                <svg width="13" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line></svg>
-                                <svg width="7" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line></svg>
+                                <svg width="13" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line></svg>
+                                <svg width="13" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line></svg>
                             </div>
 
                             {/* Action Button */}
@@ -42,9 +42,7 @@ const Section6 = () => {
 
                     <div className="s6-card">
                         <div className="s6-card-header">
-                            <div className="s6-card-icon">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
-                            </div>
+                            <div className="s6-card-icon"></div>
                             <div className="s6-card-add">
                                 <svg width="16" height="16" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="#007bff"></circle><line x1="12" y1="8" x2="12" y2="16" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line><line x1="8" y1="12" x2="16" y2="12" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line></svg>
                             </div>
@@ -57,9 +55,7 @@ const Section6 = () => {
 
                     <div className="s6-card">
                         <div className="s6-card-header">
-                            <div className="s6-card-icon">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="12" y1="18" x2="12" y2="12"></line><polyline points="9 15 12 18 15 15"></polyline></svg>
-                            </div>
+                            <div className="s6-card-icon"></div>
                             <div className="s6-card-add">
                                 <svg width="16" height="16" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="#007bff"></circle><line x1="12" y1="8" x2="12" y2="16" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line><line x1="8" y1="12" x2="16" y2="12" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line></svg>
                             </div>
@@ -72,9 +68,7 @@ const Section6 = () => {
 
                     <div className="s6-card">
                         <div className="s6-card-header">
-                            <div className="s6-card-icon">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect><line x1="1" y1="10" x2="23" y2="10"></line></svg>
-                            </div>
+                            <div className="s6-card-icon"></div>
                             <div className="s6-card-add">
                                 <svg width="16" height="16" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="#007bff"></circle><line x1="12" y1="8" x2="12" y2="16" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line><line x1="8" y1="12" x2="16" y2="12" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line></svg>
                             </div>
@@ -87,9 +81,7 @@ const Section6 = () => {
 
                     <div className="s6-card">
                         <div className="s6-card-header">
-                            <div className="s6-card-icon">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
-                            </div>
+                            <div className="s6-card-icon"></div>
                             <div className="s6-card-add">
                                 <svg width="16" height="16" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="#007bff"></circle><line x1="12" y1="8" x2="12" y2="16" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line><line x1="8" y1="12" x2="16" y2="12" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line></svg>
                             </div>
@@ -102,9 +94,7 @@ const Section6 = () => {
 
                     <div className="s6-card">
                         <div className="s6-card-header">
-                            <div className="s6-card-icon">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-                            </div>
+                            <div className="s6-card-icon"></div>
                             <div className="s6-card-add">
                                 <svg width="16" height="16" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="#007bff"></circle><line x1="12" y1="8" x2="12" y2="16" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line><line x1="8" y1="12" x2="16" y2="12" stroke="#fff" strokeWidth="2.5" strokeLinecap="round"></line></svg>
                             </div>

@@ -182,10 +182,31 @@
 }
 
 .s5-card-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #353535;
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.s5-card:nth-child(1) .s5-card-icon {
+    background-image: url('../assets/imgs/n-1.png');
+}
+
+.s5-card:nth-child(2) .s5-card-icon {
+    background-image: url('../assets/imgs/n-2.png');
+}
+
+.s5-card:nth-child(3) .s5-card-icon {
+    background-image: url('../assets/imgs/n-3.png');
+}
+
+.s5-card:nth-child(4) .s5-card-icon {
+    background-image: url('../assets/imgs/n-4.png');
+}
+
+.s5-card:nth-child(5) .s5-card-icon {
+    background-image: url('../assets/imgs/n-5.png');
 }
 
 .s5-card-add {

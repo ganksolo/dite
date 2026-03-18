@@ -99,6 +99,7 @@
     letter-spacing: 0.48px;
     line-height: 1.6;
     margin: 0;
+    white-space: nowrap;
 }
 
 .s6-hero-sub {
@@ -179,10 +180,31 @@
 }
 
 .s6-card-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #353535;
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.s6-card:nth-child(1) .s6-card-icon {
+    background-image: url('../assets/imgs/n-1.png');
+}
+
+.s6-card:nth-child(2) .s6-card-icon {
+    background-image: url('../assets/imgs/n-2.png');
+}
+
+.s6-card:nth-child(3) .s6-card-icon {
+    background-image: url('../assets/imgs/n-3.png');
+}
+
+.s6-card:nth-child(4) .s6-card-icon {
+    background-image: url('../assets/imgs/n-4.png');
+}
+
+.s6-card:nth-child(5) .s6-card-icon {
+    background-image: url('../assets/imgs/n-5.png');
 }
 
 .s6-card-add {

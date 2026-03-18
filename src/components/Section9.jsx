@@ -97,7 +97,7 @@ const Section9 = () => {
                             </div>
                             <div className="s9-price-row">
                                 <span className="s9-price-tier">集客版：</span>
-                                <span className="s9-price-value">RMB12,800元/年</span>
+                                <span className="s9-price-value">RMB12,800元/年（30 天试用)</span>
                             </div>
                         </div>
                     </div>
