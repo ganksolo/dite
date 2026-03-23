@@ -27,12 +27,12 @@
 }
 
 .s9-brand-text {
-    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-family: "Helvetica Neue", sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #333333;
-    letter-spacing: 1.2px;
-    text-transform: uppercase;
+    margin: 0;
+    line-height: 1;
 }
 
 .s9-tagline {
@@ -141,6 +141,10 @@
     display: flex;
     align-items: center;
     gap: 8px;
+}
+
+.s9-devices img {
+    filter: brightness(0.4); /* converts white svg to #666 */
 }
 
 /* ─── Feature blocks ─── */

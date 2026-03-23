@@ -21,7 +21,7 @@ const Section10 = () => {
                 {/* CTA Buttons */}
                 <div className="s10-cta-row">
                     <button className="s10-btn">获取微信小程序</button>
-                    <button className="s10-btn">获取免费App</button>
+                    <button className="s10-btn">获取免费App 应用</button>
                 </div>
             </div>
 

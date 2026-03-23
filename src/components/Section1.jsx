@@ -33,6 +33,7 @@ const Section1 = () => {
                 <div className="s1-hero-content fade-in" key="slide0">
                     <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
                     <h1 className="s1-hero-title">定义时尚产业新秩序</h1>
+                    <h2 className="s1-hero-title-en">Define the New Order of the Fashion Industry</h2>
                     <div className="s1-hero-buttons">
                         <button className="s1-pill-btn"><span className="s1-pill-text-scale">Custom Shop System</span></button>
                         <button className="s1-pill-btn"><span className="s1-pill-text-scale">Personal Ai System</span></button>

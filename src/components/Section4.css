@@ -116,7 +116,7 @@
     display: flex;
     flex-direction: column;
     gap: 22px;
-    width: 275px;
+    width: auto;
 }
 
 .s4-hero-title {
@@ -138,6 +138,7 @@
     letter-spacing: 0.48px;
     line-height: 1.5;
     margin: 0;
+    white-space: nowrap;
 }
 
 .s4-hero-sub {

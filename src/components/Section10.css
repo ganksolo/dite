@@ -18,7 +18,8 @@
     flex-direction: column;
     align-items: center;
     gap: 52px;
-    width: 408px;
+    width: auto;
+    max-width: 600px;
 }
 
 .s10-header {
@@ -66,6 +67,7 @@
     line-height: 1.636;
     text-align: center;
     margin: 0;
+    white-space: nowrap;
 }
 
 /* ─── CTA Buttons ─── */
