@@ -9,7 +9,7 @@ const Section4 = () => {
         <section className="section4-container">
             {/* Header Area */}
             <div className="s4-header">
-                <h2 className="s4-company">MÉDITE SaaS&Ai</h2>
+                <h2 className="s4-company">MÉDITE SaaS<span className="amp-style">&amp;</span>Ai</h2>
                 <h1 className="s4-title">赋能行业，「标准化」与「个性化」完美融合。</h1>
                 <p className="s4-description">
                     MÉDITE 销售团队与产品团队相互支持，在运营中规范行业标准，<br />

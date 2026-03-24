@@ -10,7 +10,7 @@ const Section9 = () => {
             {/* Centered Header */}
             <div className="s9-header">
                 <div className="s9-brand">
-                    <span className="s9-brand-text">MÉDITE SaaS&amp;Ai</span>
+                    <span className="s9-brand-text">MÉDITE SaaS<span className="amp-style">&amp;</span>Ai</span>
                 </div>
                 <h2 className="s9-tagline">未见更多，不止更多。</h2>
                 <p className="s9-desc">

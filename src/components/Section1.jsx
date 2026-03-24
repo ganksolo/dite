@@ -31,7 +31,7 @@ const Section1 = () => {
             bg: banner1,
             content: (
                 <div className="s1-hero-content fade-in" key="slide0">
-                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <div className="s1-hero-subtitle">MÉDITE SaaS<span className="amp-style">&amp;</span>Ai</div>
                     <h1 className="s1-hero-title">定义时尚产业新秩序</h1>
                     <h2 className="s1-hero-title-en">Define the New Order of the Fashion Industry</h2>
                     <div className="s1-hero-buttons">
@@ -47,7 +47,7 @@ const Section1 = () => {
             bg: banner2,
             content: (
                 <div className="s1-hero-content-slide2 fade-in" key="slide1">
-                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <div className="s1-hero-subtitle">MÉDITE SaaS<span className="amp-style">&amp;</span>Ai</div>
                     <h1 className="slide2-text-cn">
                         时尚纺织及服装产业供应链数字化与解决方案提供商，<br />
                         &nbsp;&nbsp;为产业不同业务类型企业输出具有针对性的S2B或S2C解决方案。
@@ -63,7 +63,7 @@ const Section1 = () => {
             bg: banner3,
             content: (
                 <div className="s1-hero-content-slide3 fade-in" key="slide2">
-                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <div className="s1-hero-subtitle">MÉDITE SaaS<span className="amp-style">&amp;</span>Ai</div>
                     <div className="slide3-group">
                         <h1 className="slide3-title-cn">来自高级定制门店，为高级定制而定制。</h1>
                         <p className="slide3-desc-cn">专为高级定制门店开发的数字一体化经营升级解决方案。</p>
@@ -79,7 +79,7 @@ const Section1 = () => {
             bg: banner4,
             content: (
                 <div className="s1-hero-content-slide4 fade-in" key="slide3">
-                    <div className="s1-hero-subtitle">MÉDITE SaaS&Ai</div>
+                    <div className="s1-hero-subtitle">MÉDITE SaaS<span className="amp-style">&amp;</span>Ai</div>
                     <div className="slide4-group">
                         <h1 className="slide4-title-cn">让我们的能力，成为你的实力。</h1>
                         <p className="slide4-desc-cn">用品牌唯一与即时协同达成更快的销售合作。</p>

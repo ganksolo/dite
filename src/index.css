@@ -126,3 +126,8 @@ h3 {
 section[class$="-container"]:not(.section8-container, .section9-container, .section17-container, .section18-container, .section20-container) {
   margin-bottom: 52px !important;
 }
+
+.amp-style {
+  font-weight: 400;
+  font-size: 14px;
+}

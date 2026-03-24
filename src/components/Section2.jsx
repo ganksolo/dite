@@ -16,10 +16,10 @@ const Section2 = () => {
             {/* Main Content */}
             <div className="s2-main-content">
                 <div className="s2-title-area">
-                    <div className="s2-medite-title">MÉDITE SaaS&Ai</div>
+                    <div className="s2-medite-title">MÉDITE SaaS<span className="amp-style">&amp;</span>Ai</div>
                     <h2 className="s2-main-heading">来自高级定制门店，为高级定制而定制。</h2>
                     <p className="s2-description">
-                        MÉDITE SaaS&Ai 是为高级定制业务市场（门店、供应链与消费群）定制开发的综合性解决方案产品。<br />
+                        MÉDITE SaaS<span className="amp-style">&amp;</span>Ai 是为高级定制业务市场（门店、供应链与消费群）定制开发的综合性解决方案产品。<br />
                         MÉDITE Ai 深植于MÉDITE SaaS 业务平台，为不同业务角色和节点进行能力衔接辅助，<br />
                         并通过业务协同与数据共享保证全业务流程简单、专业、精准、高效。
                     </p>
