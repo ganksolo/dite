@@ -105,6 +105,11 @@
     margin: 0;
 }
 
+.s2-description .spec-sbm {
+    font-size: 10px;
+    font-weight: 300;
+}
+
 .s2-released-link {
     font-family: "PingFang SC", sans-serif;
     font-size: 12px;

@@ -46,8 +46,8 @@
 .s20-footer-main {
     width: 100%;
     min-height: 684px;
-    background-color: #2b456b;
-    background-image: url('../assets/imgs/foot-bg.png');
+    background-color: #1D2B77;
+    /* background-image: url('../assets/imgs/foot-bg.png'); */
     background-repeat: repeat-x;
     background-position: center;
     /* Dark blue background fallback */

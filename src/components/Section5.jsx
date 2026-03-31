@@ -1,5 +1,6 @@
 import React from 'react';
 import './Section5.css';
+import dcIcon from '../assets/imgs/dc.svg';
 import ipadIcon from '../assets/imgs/ipad.svg';
 import iphoneIcon from '../assets/imgs/ipnone.svg';
 
@@ -29,7 +30,7 @@ const Section5 = () => {
 
                             {/* Devices Icons Row */}
                             <div className="s5-hero-devices">
-                                <img src={ipadIcon} alt="iPad" width="19" height="12" />
+                                <img src={dcIcon} alt="Desktop/DC" width="19" height="12" />
                                 <img src={iphoneIcon} alt="iPhone" width="13" height="12" />
                             </div>
 

@@ -9,7 +9,7 @@ const Section3 = () => {
                 <div className="s3-subtitle">MÉDITE 安全</div>
                 <h2 className="s3-main-heading">数据安全，源于架构可控。</h2>
                 <p className="s3-description">
-                    MÉDITE SaaS<span className="amp-style">&amp;</span>Ai 为用户提供本地化部署+云端混合数据应用双重保障。<br />
+                    MÉDITE SaaS<span className="amp-style spec-sbm">&amp;</span>Ai 为用户提供本地化部署+云端混合数据应用双重保障。<br />
                     从架构源头守护用户数据安全，让高效与安心同步实现。
                 </p>
             </div>
