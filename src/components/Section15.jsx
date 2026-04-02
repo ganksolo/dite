@@ -16,13 +16,6 @@ const Section15 = () => {
         76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87
     ];
 
-    // Generating up to 45 items total (5 rows of 9 items).
-    // The first part of the array will be the actual available image numbers.
-    // The rest will be padded with null/undefined to act as placeholders.
-    const gridItems = Array.from({ length: 45 }, (_, i) => {
-        return availableImageNumbers[i] || null;
-    });
-
     return (
         <section className="section15-container">
             {/* Header / Tabs Area */}
@@ -43,22 +36,20 @@ const Section15 = () => {
 
             {/* Brands Grid Area */}
             <div className="s15-brands-grid">
-                {gridItems.map((imgNum, index) => {
-                    const imgUrl = imgNum ? new URL(`../assets/imgs/image ${imgNum}.png`, import.meta.url).href : null;
+                {availableImageNumbers.map((imgNum, index) => {
+                    const imgUrl = new URL(`../assets/imgs/image ${imgNum}.png`, import.meta.url).href;
                     return (
                         <div
                             key={index}
                             className="s15-brand-item"
-                            style={imgNum ? {
+                            style={{
                                 backgroundImage: `url("${imgUrl}")`,
                                 backgroundSize: 'contain',
                                 backgroundPosition: 'center',
                                 backgroundRepeat: 'no-repeat',
                                 backgroundColor: '#fff' // Remove default #fafafa to make images cleaner if transparent
-                            } : {}}
+                            }}
                         >
-                            {/* If no image number exists, render the original placeholder */}
-                            {!imgNum && <div className="s15-brand-logo-placeholder"></div>}
                         </div>
                     );
                 })}
